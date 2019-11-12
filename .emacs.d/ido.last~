@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/krpec/dev/rd2code/" . "noria-alarms/")
+ ("/home/krpec/dev/" . "rd2code/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/krpec/dev/rd2code/noria-alarms/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Capfile"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/krpec/" (24010 48633 184285 72000) ".rvm/" ".bashrc" ".Xauthority" "Downloads/" ".tusk.json" ".ssh/" ".bundle/" ".mozilla/" ".thunderbird/" ".cfg/" "./" ".mkshrc" "media/" ".gEDA/" ".bash_logout" ".dmrc" ".~lock.noria_test.csv#" ".irb-history" ".local/" ".emacs.d/" ".pEp/" ".xsessionrc" ".gem/" ".Xresources" ".esd_auth" "aur_builds/" ".cache/" ".FreeCAD/" ".bash_history" ".zshrc" "games/" ".xsession-errors" ".bashrc~" "downloads/" ".xsession-errors.old" "Desktop/" "doc/" ".pEp_management.db-shm" ".mysql_history" ".w3m/" ".bash_profile" "desktop/" ".ssh-agent-thing" "../" "bin/" "noria_test.csv" ".gnupg/" ".fehbg" ".zlogin" ".pEp_management.db-wal" ".mysql/" ".pam_environment" ".pki/" ".config/" ".profile" "dev/" ".emacs~" ".emacs" ".gitconfig" ".pEp_management.db" ".links/" ".wget-hsts")
+
+ ("/home/krpec/dev/rd2code/noria-alarms/" (24009 62729 52595 418000) "log/" "Gemfile.lock" "README.md" "noria-alarms.sublime-workspace" "Rakefile" "./" "tmp/" "package.json" ".gitignore" "app/" ".byebug_history" ".ruby-version" "public/" ".git/" "test/" "Capfile" "package-lock.json" "../" "config.ru" "bin/" "spec/" "Gemfile" "bootstrap-datetimepicker.js" "db/" "lib/" "config/" "vendor/")
+
+ ("/home/krpec/dev/rd2code/" (23926 54237 289754 315000) "yarms/" "colorcms/" "./" "gboxpi/" "../" "uctomhb.cz/" "noria-alarms/" "soundlabel/")
+
+ ("/home/krpec/dev/" (23855 37256 13779 374000) "bash/" "waypoint.css.scss" "Workman/" "brainfuck/" "emacs_orgmode/" "haml/" "C#/" "./" "qmk_firmware/" "coloroptik-orange.png" "deal.rb" "test.js.cofee" "taiga_log/" "myevic-master/" "Perl/" "ObjectiveC/" "C and Cpp/" "Lisp/" "portal_pt_locale/" "Soarer_Converter_v1/" "Arch-config/" "Ruby/" "_adminer.php" "song" "SALMON.INI" "rd2code/" "dev.tar.gz" "PHP/" "HISoftware/" "MultiWii 2.3/" "rails/" "international_inc_updated.bak" "Python/" "Soarer_sctools_v1.10_macosx/" "../" "keybs/" "Java/" "salmon/" "db_dump.sql" "_backup[db]/" "charts-ok2.png" "abstract_interface.rb" "new_song" "Citationtech/" "pckgs.zip" "sublime-text-3/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
