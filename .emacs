@@ -2,9 +2,11 @@
 
 (require 'package)
 (require 'haml-mode)
+(require 'yaml-mode)
 (add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
 (add-to-list 'package-archives '("org" .  "https://orgmode.org/elpa/") t)
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+(add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
 (package-initialize)
 
 
@@ -24,17 +26,21 @@
  '(menu-bar-mode nil)
  '(package-selected-packages
    (quote
-    (org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete)))
+    (yaml-mode which-key org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete)))
  '(scroll-bar-mode nil)
  '(show-paren-mode t)
  '(tool-bar-mode nil)
- '(tooltip-mode nil))
+ '(tooltip-mode nil)
+ '(global-hl-line-mode t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+(setq inhibit-startup-message t)
+
 
 (global-set-key "\C-x\C-m" 'execute-extended-command)
 
@@ -50,3 +56,11 @@
 (ido-mode 1)
 (setq ido-create-new-buffer 'always)
 (setq ido-ignore-extensions t)
+
+;;which-key
+(which-key-mode)
+
+;;yaml-mode
+(add-hook 'yaml-mode-hook
+	  '(lambda ()
+	     (define-key yaml-mode-map "\C-m" 'newline-and-indent)))

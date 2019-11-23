@@ -74,9 +74,9 @@ export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quo
 
 # ssh-agent
  if ! pgrep -u "$USER" ssh-agent > /dev/null; then
- 	ssh-agent > ~/.ssh-agent-thing
+ 	ssh-agent > "$XDG_RUNTIME_DIR/ssh-agent.env"
  fi
  if [[ ! "$SSH_AUTH_SOCK" ]]; then
- 	eval "$(<~/.ssh-agent-thing)" > /dev/null
+ 	eval "$(<"$XDG_RUNTIME_DIR/ssh-agent.env")"
  fi
  
