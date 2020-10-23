@@ -1,0 +1,8 @@
+rs
+clear
+...
+cd ..
+cd ..
+cd ..
+rs
+rails g migration add_device_event_id_to_device_alarms

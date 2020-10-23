@@ -19,6 +19,7 @@ fi
 # Aliases
 alias ls='ls --color=auto'
 alias la='ls --color=auto -alF'
+alias ll='ls --color=auto -lF'
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
@@ -32,6 +33,8 @@ alias be='bundle exec'
 alias bu='bundle update'
 alias rc='rails console'
 alias rs='rails server'
+
+alias linbox='/usr/bin/wine ~/bin/win/winbox64.exe'
 
 alias ch='git checkout'
 alias gf='git fetch -v'

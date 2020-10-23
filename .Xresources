@@ -135,9 +135,14 @@
 ! URxvt*url-launcher:                   string
 
 ! Transparency settings
-URxvt*.transparent :true
-URxvt*.shading: 50
+! URxvt*.transparent: false
+! URxvt*.shading: 99
+
+URxvt.depth: 32
+URxvt.background: [80]#000000
+
 URxvt*.scrollStyle: plain
+URxvt*scrollBar: false
 
 ! Fonts
 URxvt*font: xft:andale mono:pixelsize=11:antialias=true:hinting=true

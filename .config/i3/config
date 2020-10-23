@@ -101,16 +101,24 @@ bindsym $mod+Shift+b move container to workspace back_and_forth; workspace back_
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1: www"
+set $ws1 "1: web"
 set $ws2 "2: dev"
-set $ws3 "3: thunar"
+set $ws3 "3: web"
 set $ws4 "4: mail"
 set $ws5 "5: im"
-set $ws6 "6: sql"
+set $ws6 "6: rdp/sql"
 set $ws7 "7: music"
-set $ws8 "8"
+set $ws8 "8: doc"
 set $ws9 "9: torrent"
 set $ws0 "0: term"
+
+workspace $ws0 output VGA1
+workspace $ws1 output HDMI1
+workspace $ws2 output HDMI1
+workspace $ws4 output VGA1
+workspace $ws7 output VGA1
+workspace $ws9 output VGA1
+
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
@@ -187,17 +195,18 @@ mode "$mode_system" {
     bindsym Escape mode "default"
 }
 
-bindsym $mod+l --no-startup-id blurlock
+bindsym $mod+l exec --no-startup-id matrixlock #blurlock
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3status
-        position top
-        workspace_buttons yes
-        colors {
-                separator #666666
-                background #222222
+    tray_output HDMI1
+    status_command i3status
+    position top
+    workspace_buttons yes
+    colors {
+    	   separator #666666
+           background #222222
                 statusline #dddddd
                 focused_workspace #0088CC #0088CC #FFFFFF
                 active_workspace #333333 #333333 #FFFFFF
@@ -212,7 +221,7 @@ exec --no-startup-id emacs --daemon
 exec --no-startup-id nm-applet
 exec --no-startup-id dunst
 exec --no-startup-id ~/bin/fehbg
-
+exec --no-startup-id picom --config ~/.config/picom/picom.conf -b
 
 client.focused		#0088CC #0088CC #FFFFFF #DDDDDD
 client.focused_inactive #333333 #333333 #888888 #292D2E
@@ -231,6 +240,9 @@ client.urgent 	 	#2F343A #900000 #FFFFFF #900000
 
 for_window [class="Firefox"] border pixel
 for_window [class="Chromium"] border pixel
+for_window [class="Vivaldi"] border pixel
 
 assign [class="Thunderbird"] $ws4
+assign [class="Sylpheed"] $ws4
+assign [class="Mailspring"] $ws4
 assign [class="Transmission"] $ws9
