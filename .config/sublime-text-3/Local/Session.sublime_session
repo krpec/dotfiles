@@ -1,0 +1,6251 @@
+{
+	"folder_history":
+	[
+		"/home/krpec/dev/rails/salmon-cash",
+		"/home/krpec/dev/rd2code/soundlabel/id3v2lib/include",
+		"/home/krpec/dev/rd2code/soundlabel/id3v2lib/src",
+		"/home/krpec/dev/qmk_firmware",
+		"/home/krpec/dev/rd2code/gboxpi",
+		"/home/krpec/dev/rd2code/colorcms",
+		"/home/krpec/dev/rd2code/noria-alarms"
+	],
+	"last_version": 3211,
+	"last_window_id": 61,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 981.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"_",
+						"_ESCFN"
+					],
+					[
+						"laye",
+						"layer_state_str"
+					],
+					[
+						"lay",
+						"layer_state_str"
+					],
+					[
+						"layer_sta",
+						"layer_state_str"
+					],
+					[
+						"set_",
+						"set_single_persistent_default_layer"
+					],
+					[
+						"event",
+						"device_events"
+					],
+					[
+						"devi",
+						"device_events"
+					],
+					[
+						"device",
+						"device_alarms"
+					],
+					[
+						"currnt",
+						"current_user"
+					],
+					[
+						"link",
+						"link_bits"
+					],
+					[
+						"v",
+						"value"
+					],
+					[
+						"no",
+						"noria_id"
+					],
+					[
+						"ty",
+						"typy"
+					],
+					[
+						"ž",
+						"žádné"
+					],
+					[
+						"t",
+						"tokenů"
+					],
+					[
+						"V",
+						"Výpis"
+					],
+					[
+						"syst",
+						"system_setting"
+					],
+					[
+						"btn",
+						"btn-primary"
+					],
+					[
+						"devicy",
+						"device_types"
+					],
+					[
+						"def",
+						"defs\tdef self .. end"
+					],
+					[
+						"curr",
+						"current_user"
+					],
+					[
+						"system",
+						"system_settings"
+					],
+					[
+						"crea",
+						"create_request_log"
+					],
+					[
+						"Sys",
+						"SystemSetting"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/krpec/dev/qmk_firmware/tmk_core/common/action_layer.h",
+				"/home/krpec/dev/qmk_firmware/tmk_core/common/eeconfig.h",
+				"/home/krpec/dev/qmk_firmware/quantum/keycode_config.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/crkbd/keymaps/krpec/config.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/crkbd/config.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/crkbd/rules.mk",
+				"/home/krpec/dev/qmk_firmware/.gitmodules",
+				"/home/krpec/dev/qmk_firmware/Makefile",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/config.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/planck.c",
+				"/home/krpec/dev/qmk_firmware/keyboards/krpec/kplanck.c",
+				"/home/krpec/dev/qmk_firmware/keyboards/kplanck/keymaps/default/keymap.c",
+				"/home/krpec/dev/qmk_firmware/keyboards/kplanck/keymaps/default/config.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/kplanck/rules.mk",
+				"/home/krpec/dev/qmk_firmware/keyboards/kplanck/kplanck.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/kplanck/config.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/info.json",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/planck.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/kplanck/info.json",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/application_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/.gitignore",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/user.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/device_event.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/message.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs/models.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/layouts/_navbar_menu_xxx.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/menu_item.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190623202008_create_device_types.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/users/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/routes.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/system_settings/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/assets/javascripts/client.js.coffee",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/users/_user.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/_menu.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/users/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/menu_items_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/_message.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/system_setting.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190528090722_create_system_settings.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs/views.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/_device.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs/time.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/environments/production.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/ability.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/device_types/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/devices_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_token_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/load_token.js.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_menu_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190624110359_create_device_alarms.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/device_events_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190718221538_remove_value_from_tokens.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/token.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/helpers/menu_item_active.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/_token.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/menus_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/system_settings_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190708214852_create_messages.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/layouts/_navbar_menu.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/device_types/_device_type.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/device_types/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_system_setting_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/device_types/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_device_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_device_type_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/device_types_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_menu_item_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/_device_event.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190730194140_create_device_events.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/config/deploy/production.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/messages_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/api/messages_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_view_head.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/tokens_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_token_import_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/import.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/seeds.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/device_alarms_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/config/database.yml",
+				"/home/krpec/dev/qmk_firmware/keyboards/readme.md",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/readme.md",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/krpec/rules.mk",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/krpec/config.h",
+				"/home/krpec/dev/qmk_firmware/keyboards/planck/keymaps/krpec/keymap.c",
+				"/home/krpec/dev/rd2code/noria-alarms/public/sf_example.json",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/device.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/helpers/application_helper.rb",
+				"/home/krpec/noria_test.csv",
+				"/home/krpec/Downloads/Hellboy.2019.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG-HI.srt",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/device_types/new.html.haml",
+				"/run/media/krpec/8AFD-1A00/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.Bluray.x264.anoXmous/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.Bluray.x264.anoXmous_.srt",
+				"/run/media/krpec/8AFD-1A00/Harry.Potter.And.The.Order.Of.The.Phoenix.2007.1080p.Bluray.x264.anoXmous/Harry.Potter.And.The.Order.Of.The.Phoenix.2007.1080p.Bluray.x264.anoXmous_.srt",
+				"/run/media/krpec/8AFD-1A00/Harry.Potter.And.The.Goblet.Of.Fire.2005.1080p.Bluray.x264.anoXmous/Harry.Potter.And.The.Goblet.Of.Fire.2005.1080p.Bluray.x264.anoXmous_.srt",
+				"/home/krpec/Downloads/Harry.Potter.and.the.Prisoner.of.Azkaban.2004.720p.BluRay.DTS.x264-ESiR.ENG.srt",
+				"/run/media/krpec/8AFD-1A00/Harry.Potter.And.The.Prisoner.Of.Azkaban.2004.1080p.Bluray.x264.anoXmous/Harry.Potter.And.The.Prisoner.Of.Azkaban.2004.1080p.Bluray.x264.anoXmous_.srt",
+				"/home/krpec/dev/rd2code/noria-alarms/tmp/sf_example.json",
+				"/home/krpec/media/video/Home (2015) [1080p]/Home.2015.1080p.BluRay.x264.YIFY.srt",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/device_type.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_user_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/assets/javascripts/custom_sortable.js.coffee",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/users_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/en/models.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/schema.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/request_log.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_actions_column.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/system_settings/_system_setting.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/system_settings/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/system_settings/index.js.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/system_settings/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190611192928_finish_menu_items.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_show_actions.html.haml"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 133.0,
+				"where_history":
+				[
+					"/home/krpec/dev/qmk_firmware/keyboards/crkbd"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"eeconfig_read_user()",
+					"FN"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ESCFN"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 47.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 90.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"makefi",
+						"Makefile"
+					],
+					[
+						"produ",
+						"config/environments/production.rb"
+					],
+					[
+						"ability",
+						"app/models/ability.rb"
+					],
+					[
+						"menu",
+						"app/helpers/menu_item_active.rb"
+					],
+					[
+						"mess show",
+						"app/views/admin/messages/show.html.haml"
+					],
+					[
+						"abi",
+						"app/models/ability.rb"
+					],
+					[
+						"messa",
+						"app/models/message.rb"
+					],
+					[
+						"device",
+						"app/models/device.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"abili",
+						"app/models/ability.rb"
+					],
+					[
+						"message",
+						"app/models/message.rb"
+					],
+					[
+						"messages _listin",
+						"app/views/admin/messages/_listing.html.haml"
+					],
+					[
+						"_messa",
+						"app/views/admin/messages/_message.html.haml"
+					],
+					[
+						"",
+						"app/models/message.rb"
+					],
+					[
+						"device_event",
+						"app/models/device_event.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"messag",
+						"app/models/message.rb"
+					],
+					[
+						"token",
+						"app/models/token.rb"
+					],
+					[
+						"menuitema",
+						"app/helpers/menu_item_active.rb"
+					],
+					[
+						"_menu",
+						"app/views/admin/menus/_menu.html.haml"
+					],
+					[
+						"json",
+						"tmp/sf_example.json"
+					],
+					[
+						"deviceala",
+						"app/controllers/device_alarms_controller.rb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"menuitemsco",
+						"app/controllers/admin/menu_items_controller.rb"
+					],
+					[
+						"tokens",
+						"app/controllers/tokens_controller.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"ab",
+						"app/models/ability.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"navba",
+						"app/views/layouts/_navbar_menu_xxx.html.haml"
+					],
+					[
+						"appli",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"userfor",
+						"app/views/shared/_user_form.html.haml"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"edit",
+						"app/views/devices/edit.html.haml"
+					],
+					[
+						"menus",
+						"app/controllers/admin/menus_controller.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"application_hel",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"sys",
+						"app/models/system_setting.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 293.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1276.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"P",
+						"PARSE_METHOD"
+					],
+					[
+						"m",
+						"m3"
+					],
+					[
+						"sy",
+						"sync_reading"
+					],
+					[
+						"z",
+						"zařízení"
+					],
+					[
+						"ode",
+						"odečet"
+					],
+					[
+						"ack",
+						"ack_activation_msg"
+					],
+					[
+						"v",
+						"vodoměrů"
+					],
+					[
+						"para",
+						"parametry"
+					],
+					[
+						"vodo",
+						"vodoměru"
+					],
+					[
+						"V",
+						"Výpis"
+					],
+					[
+						"tr",
+						"trvalý"
+					],
+					[
+						"p",
+						"průtoky"
+					],
+					[
+						"trval",
+						"trvalé"
+					],
+					[
+						"pr",
+						"průtok"
+					],
+					[
+						"t",
+						"trvalý"
+					],
+					[
+						"vo",
+						"vodoměrů"
+					],
+					[
+						"ty",
+						"typy"
+					],
+					[
+						"ž",
+						"žádné"
+					],
+					[
+						"S",
+						"SystemSetting"
+					],
+					[
+						"Tlaka",
+						"TlakanTimeSpan"
+					],
+					[
+						"devi",
+						"device_alarms"
+					],
+					[
+						"meter_",
+						"meter_type"
+					],
+					[
+						"alarm",
+						"alarm_number"
+					],
+					[
+						"zp",
+						"zpráva"
+					],
+					[
+						"find",
+						"find_by"
+					],
+					[
+						"sett",
+						"setting_type"
+					],
+					[
+						"setting",
+						"SETTING_TYPES"
+					],
+					[
+						"ala",
+						"alarm_type"
+					],
+					[
+						"tlakan",
+						"tlakan_status"
+					],
+					[
+						"device",
+						"DeviceEvent"
+					],
+					[
+						"pum",
+						"pump_time"
+					],
+					[
+						"deactiva",
+						"deactivate_ref_time"
+					],
+					[
+						"Se",
+						"SETTING_TYPES"
+					],
+					[
+						"čís",
+						"Číslo"
+					],
+					[
+						"T",
+						"TLAKAN_TYPE"
+					],
+					[
+						"alarm_",
+						"alarm_number"
+					],
+					[
+						"Alarm",
+						"alarmů"
+					],
+					[
+						"alar",
+						"alarm_label"
+					],
+					[
+						"request",
+						"request_logs"
+					],
+					[
+						"tlaka",
+						"tlakan_status"
+					],
+					[
+						"tla",
+						"tlakan_alarm"
+					],
+					[
+						"ALA",
+						"ALARM_TYPE"
+					],
+					[
+						"statur_",
+						"status_range"
+					],
+					[
+						"status",
+						"status_start"
+					],
+					[
+						"D",
+						"DeviceAlarm"
+					],
+					[
+						"sta",
+						"status_end"
+					],
+					[
+						"swi",
+						"switch_count"
+					],
+					[
+						"swit",
+						"switch_diff"
+					],
+					[
+						"tot",
+						"total_time"
+					],
+					[
+						"w",
+						"WMETER_TYPE"
+					],
+					[
+						"probe",
+						"probecheck2"
+					],
+					[
+						"event",
+						"device_events"
+					],
+					[
+						"currnt",
+						"current_user"
+					],
+					[
+						"link",
+						"link_bits"
+					],
+					[
+						"no",
+						"noria_id"
+					],
+					[
+						"syst",
+						"system_setting"
+					],
+					[
+						"btn",
+						"btn-primary"
+					],
+					[
+						"devicy",
+						"device_types"
+					],
+					[
+						"def",
+						"defs\tdef self .. end"
+					],
+					[
+						"curr",
+						"current_user"
+					],
+					[
+						"system",
+						"system_settings"
+					],
+					[
+						"crea",
+						"create_request_log"
+					],
+					[
+						"Sys",
+						"SystemSetting"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "config/locales/cs/views.yml",
+					"settings":
+					{
+						"buffer_size": 18587,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/helpers/menu_item_active.rb",
+					"settings":
+					{
+						"buffer_size": 5080,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/api/events_controller.rb",
+					"settings":
+					{
+						"buffer_size": 9672,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/device_event.rb",
+					"settings":
+					{
+						"buffer_size": 24389,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/device.rb",
+					"settings":
+					{
+						"buffer_size": 29843,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 2135,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_manufacturer_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 809,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "- unless @meter_params.empty?\n  .table-responsive\n    %table.table.table-hover.table-striped.table-condensed\n      %thead\n        %tr\n          %th= sort_link(@search, :id, {}, { remote: true })\n          %th= sort_link(@search, :manufacturer_name, {}, { remote: true })\n          %th= sort_link(@search, :meter_type_name, {}, { remote: true })\n          %th= sort_link(@search, :meter_flow_flow, {}, { remote: true })\n          %th= sort_link(@search, :param_type, {}, { remote: true })\n          %th= sort_link(@search, :param_value, {}, { remote: true })\n          %th= sort_link(@search, :created_at, {}, { remote: true })\n          %th\n            = t('shared.common.actions')\n      %tbody\n        - @meter_params.each do |meter_param|\n          = render meter_param\n- else\n  %br/\n  .alert.alert-info.mrgn-right-20\n    = t('.no_results')",
+					"file": "app/views/admin/meter_params/_listing.html.haml",
+					"file_size": 842,
+					"file_write_time": 132227442318281473,
+					"settings":
+					{
+						"buffer_size": 842,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_meter_type_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 1457,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/request_logs/show.html.haml",
+					"settings":
+					{
+						"buffer_size": 1740,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/request_logs/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 2497,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/request_logs/index.js.haml",
+					"settings":
+					{
+						"buffer_size": 126,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/pump_times/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 349,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/manufacturers/index.js.haml",
+					"settings":
+					{
+						"buffer_size": 136,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/meter_flows/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 483,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/meter_flows/_listing.html.haml",
+					"settings":
+					{
+						"buffer_size": 794,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/manufacturer.rb",
+					"settings":
+					{
+						"buffer_size": 222,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/meter_type.rb",
+					"settings":
+					{
+						"buffer_size": 333,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "class MeterParam < ApplicationRecord\n  extend Enumerize\n  \n  belongs_to :meter_flow, inverse_of: :meter_params\n  has_one :meter_type, through: :meter_flow\n  has_one :manufacturer, through: :meter_type\n\n  PARAM_TYPE = { undefined: -1, sensor: 1 } #, minimal_reading: 2 }\n\n  enumerize :param_type, in: PARAM_TYPE, default: PARAM_TYPE[:undefined], scope: true, predicates: true\n\n  validates :param_value, presence: true, numericality: true\nend\n",
+					"file": "app/models/meter_param.rb",
+					"file_size": 441,
+					"file_write_time": 132230891209473375,
+					"settings":
+					{
+						"buffer_size": 441,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 5601,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/meter_types/new.html.haml",
+					"settings":
+					{
+						"buffer_size": 128,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/meter_types/_meter_type.html.haml",
+					"settings":
+					{
+						"buffer_size": 243,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20190905175746_device_events_addons.rb",
+					"settings":
+					{
+						"buffer_size": 382,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20190930192600_change_default_lqi.rb",
+					"settings":
+					{
+						"buffer_size": 264,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "- url = @meter_param.new_record? ? admin_meter_params_path : admin_meter_param_path(@meter_param)\n- method = @meter_param.new_record? ? \"post\" : \"patch\"\n= render 'shared/error_messages', object: @meter_param\n= form_for(@meter_param, url: url, method: method, html: { class: \"custom-form \"}) do |f|\n  .row\n    .col-12.col-md-10\n      =form_group_for f, :meter_flow, label: false, add_class: \"row required\" do\n        .col-4\n          = f.label :meter_flow, class: \"control-label\"\n        .col-8\n          = f.select :meter_flow_id, MeterFlow.all.map{ |e| [e.manufacturer.name + \" - \" + e.meter_type.name + \" - \" + e.flow.to_s, e.id] }, { include_blank: t('meter_flows.shared.select_meter_flow'), selected: input_value(@meter_param, \"meter_flow_id\") }, { class: \"form-control\" }\n      =form_group_for f, :param_type, label: false, add_class: \"row required\" do\n        .col-4\n          = f.label :param_type, class: \"control-label\"\n        .col-8\n          = f.select :param_type, MeterParam.param_type.options, { selected: input_value(@meter_param, \"param_type\") }, { class: \"form-control\" }\n      = form_group_for f, :param_value, label: false, add_class: \"row required\" do\n        .col-4\n          = f.label :param_value, class: \"control-label\"\n        .col-8\n          = f.text_field :param_value, class: \"form-control\"\n      .form-group.row\n        .col\n          - if @meter_param.new_record?\n            = f.submit t('meter_params.actions.new'), class: \"btn btn-primary pull-left\"\n          - else\n            = f.submit t('shared.common.save_changes'), class: \"btn btn-primary pull-left\"\n",
+					"file": "app/views/shared/_meter_param_form.html.haml",
+					"file_size": 1593,
+					"file_write_time": 132228306236173176,
+					"settings":
+					{
+						"buffer_size": 1593,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/seeds.rb",
+					"settings":
+					{
+						"buffer_size": 3696,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_meter_flow_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 1457,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/system_setting.rb",
+					"settings":
+					{
+						"buffer_size": 5682,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/tokens/import.html.haml",
+					"settings":
+					{
+						"buffer_size": 128,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_token_import_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 647,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/tokens_controller.rb",
+					"settings":
+					{
+						"buffer_size": 4087,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_view_head.html.haml",
+					"settings":
+					{
+						"buffer_size": 633,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/token.rb",
+					"settings":
+					{
+						"buffer_size": 2688,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/tokens/show.html.haml",
+					"settings":
+					{
+						"buffer_size": 1618,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/concerns/listing_id.rb",
+					"settings":
+					{
+						"buffer_size": 1184,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 4352,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/pump_times_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1036,
+						"line_ending": "Unix",
+						"name": "class PumpTimesController < ApplicationController"
+					}
+				},
+				{
+					"file": "app/views/shared/_actions_column.html.haml",
+					"settings":
+					{
+						"buffer_size": 1459,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/admin/alarm_labels_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1698,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/alarm_labels/index.js.haml",
+					"settings":
+					{
+						"buffer_size": 136,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/alarm_labels/edit.html.haml",
+					"settings":
+					{
+						"buffer_size": 129,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/alarm_labels/_listing.html.haml",
+					"settings":
+					{
+						"buffer_size": 865,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/alarm_labels/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 489,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/alarm_labels/new.html.haml",
+					"settings":
+					{
+						"buffer_size": 130,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_alarm_label_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 3457,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 5139,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "config/schedule.rb",
+					"settings":
+					{
+						"buffer_size": 3979,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/jobs/avg_pump_times_job.rb",
+					"settings":
+					{
+						"buffer_size": 2329,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/menu_items/_menu_item.html.haml",
+					"settings":
+					{
+						"buffer_size": 1745,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/menu_items/_listing.html.haml",
+					"settings":
+					{
+						"buffer_size": 1290,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/devices_controller.rb",
+					"settings":
+					{
+						"buffer_size": 34817,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20191012092848_change_token_scale.rb",
+					"settings":
+					{
+						"buffer_size": 197,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/tokens/_token.html.haml",
+					"settings":
+					{
+						"buffer_size": 1600,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/device_alarms/_device_alarm.html.haml",
+					"settings":
+					{
+						"buffer_size": 1159,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/schema.rb",
+					"settings":
+					{
+						"buffer_size": 25194,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/device_events/show.html.haml",
+					"settings":
+					{
+						"buffer_size": 32596,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 443 files for \"wmeter_set_param\" (case sensitive)\n\n/home/krpec/dev/rd2code/noria-alarms/app/views/devices/_listing_alarm_setting.html.haml:\n    2    - @devices.each do |dev|\n    3      .modal.fade{ id: \"setParamsModal-#{dev.id}\", role: \"dialog\", tabindex: -1, aria: { labelledby: \"setParamsModalLabel-#{dev.id}\", hidden: \"true\" } }\n    4:       = render 'modals/wmeter_set_params', form_path: downlink_set_param_device_path(dev), id: dev.id\n    5  \n    6    .row.mt-10p\n\n/home/krpec/dev/rd2code/noria-alarms/app/views/devices/diagnostics.html.haml:\n  181  \n  182            .modal.fade{ id: \"setParamsModal-#{@device.id}\", role: \"dialog\", tabindex: -1, aria: { labelledby: \"setParamsModalLabel-#{@device.id}\", hidden: \"true\" } }\n  183:             = render 'modals/wmeter_set_params', form_path: downlink_set_param_device_path(@device), id: @device.id, device: @device\n  184  \n  185            #resetVarsModal.modal.fade{ role: \"dialog\", tabindex: -1, aria: { labelledby: \"resetVarsModalLabel-#{@device.id}\", hidden: \"true\" } }\n\n2 matches across 2 files\n",
+					"settings":
+					{
+						"buffer_size": 1064,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/krpec/Downloads/LoRa-CRA.json",
+					"settings":
+					{
+						"buffer_size": 4307,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/krpec/.config/picom/picom.conf",
+					"settings":
+					{
+						"buffer_size": 73,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/krpec/.config/systemd/user/ssh-agent.service",
+					"settings":
+					{
+						"buffer_size": 186,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/krpec/.ssh-agent-thing",
+					"settings":
+					{
+						"buffer_size": 133,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "log/nom_production.log",
+					"settings":
+					{
+						"buffer_size": 11049755,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/krpec/LoRa-CRA.json",
+					"settings":
+					{
+						"buffer_size": 4313,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "class RegistrationsController < Devise::RegistrationsController\n\n  skip_before_action :authenticate_user!, only: [:new, :create]\n  # prepend_before_action :require_no_authentication, only: [:new, :create, :cancel]\n  # before_action :set_locale\n\n  def new\n    super\n  end\n\n\n  def create\n    session[:login_referrer] = request.referrer\n\n\n    build_resource(sign_up_params)\n\n    pass_hash = SecureRandom.hex(5)\n    resource.password = pass_hash\n    resource.password_confirmation = pass_hash\n    resource.hash_password = pass_hash\n\n    # 4B token ID\n    if resource.token.length == 6\n      resource.token = \"00\" + resource.token\n    end\n\n    if resource.valid?\n    # yield resource if block_given?\n      resource.save\n\n      InvoiceInfo.create user: resource, address: resource.address, ico: resource.ico, dic: resource.dic, company_name: resource.company_name, invoice_email: resource.invoice_email, first_name: resource.first_name, last_name: resource.last_name, phone: resource.phone\n\n\n      InfoMailer.registration_instructions(resource, pass_hash).deliver_later\n\n      flash[:notice] = t('devise.registrations.instructions_sent')\n      redirect_to new_user_session_path\n      # if resource.active_for_authentication?\n      #   # set_flash_message! :notice, :signed_up\n      #   sign_up(resource_name, resource)\n      #   respond_with resource, location: after_sign_up_path_for(resource)\n      # else\n      #   # set_flash_message! :notice, :\"signed_up_but_#{resource.inactive_message}\"\n      #   expire_data_after_sign_in!\n      #   respond_with resource, location: after_inactive_sign_up_path_for(resource)\n      # end\n    else\n      clean_up_passwords resource\n      set_minimum_password_length\n\n      # resource.errors.messages.merge!(@address.errors.messages) if !@address.valid? # for errors\n\n      render 'devise/registrations/new'\n    end\n  end\n  # def update\n  #   # if sign_up_params[:password].blank?\n #  #     sign_up_params.delete(\"password\")\n #  #     sign_up_params.delete(\"password_confirmation\")\n #  #   end\n\n #    binding.pry\n #    @user = current_user\n #    if current_user.update_attributes sign_up_params\n #      redirect_to root_url\n #    else\n #      render 'edit'\n #    end\n\n  # end\n  #\n  #\n\n\n  protected\n    def sign_up_params\n      params.require(:user).permit(:token, :first_name, :last_name, :email, :password, :password_confirmation, :login, :phone, :ico, :dic, :company_name, :invoice_frequency, :invoice_email, :locale, :legal_aggreement, :business_terms, :locale, address_attributes: [:street, :city, :zip, :country])\n    end\n\n    def account_params\n      params.require(:user).require(:account).permit(:address, :city, :zip, :company_name, :ico, :dic, :account_type)\n    end\n\n    def update_resource(resource, params)\n      resource.update_without_password(params)\n      I18n.locale = params[:locale]\n    end\n\n    def after_sign_up_path_for(resource)\n      referrer = session[:login_referrer]\n      session[:login_referrer] = nil\n\n      referrer || root_url\n    end\n\n\nend\n",
+					"file": "app/controllers/registrations_controller.rb",
+					"file_size": 3006,
+					"file_write_time": 132428704494623754,
+					"settings":
+					{
+						"buffer_size": 3006,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/krpec/.bash_history",
+					"settings":
+					{
+						"buffer_size": 31035,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/layouts/_header_navbar.html.haml",
+					"settings":
+					{
+						"buffer_size": 4457,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20200114224542_final_dparam_change.rb",
+					"settings":
+					{
+						"buffer_size": 141,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "config/locales/cs/models.yml",
+					"settings":
+					{
+						"buffer_size": 18532,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20200105224424_alarm_seq_bigint_event.rb",
+					"settings":
+					{
+						"buffer_size": 470,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20191209094245_add_water_meter_fields_to_device.rb",
+					"settings":
+					{
+						"buffer_size": 264,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/device_param.rb",
+					"settings":
+					{
+						"buffer_size": 3839,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/devices/diagnostics.html.haml",
+					"settings":
+					{
+						"buffer_size": 11276,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20190905182801_add_parse_method_to_device_types.rb",
+					"settings":
+					{
+						"buffer_size": 141,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20190910191742_add_watermeters_to_events.rb",
+					"settings":
+					{
+						"buffer_size": 539,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/device_alarm.rb",
+					"settings":
+					{
+						"buffer_size": 5316,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/devices/_device.html.haml",
+					"settings":
+					{
+						"buffer_size": 2266,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/device_events/_device_event.html.haml",
+					"settings":
+					{
+						"buffer_size": 1562,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/device_events/activation.html.haml",
+					"settings":
+					{
+						"buffer_size": 532,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/meter_types/edit.html.haml",
+					"settings":
+					{
+						"buffer_size": 127,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/devices/new.html.haml",
+					"settings":
+					{
+						"buffer_size": 121,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/alarm_label.rb",
+					"settings":
+					{
+						"buffer_size": 775,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20191023221553_create_pump_times.rb",
+					"settings":
+					{
+						"buffer_size": 325,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/menus/show.html.haml",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/menus/_menu.html.haml",
+					"settings":
+					{
+						"buffer_size": 233,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/devices/show.html.haml",
+					"settings":
+					{
+						"buffer_size": 9024,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_device_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 8155,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/devices/_listing.html.haml",
+					"settings":
+					{
+						"buffer_size": 2866,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/device_types/edit.html.haml",
+					"settings":
+					{
+						"buffer_size": 130,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_system_setting_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 1207,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/shared/_show_actions.html.haml",
+					"settings":
+					{
+						"buffer_size": 1705,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "config/deploy/production.rb",
+					"settings":
+					{
+						"buffer_size": 2440,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/admin/menus_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1531,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/device_types/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 661,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/admin/device_types/_device_type.html.haml",
+					"settings":
+					{
+						"buffer_size": 928,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/layouts/_navbar_menu.html.haml",
+					"settings":
+					{
+						"buffer_size": 3116,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/pump_times/_listing.html.haml",
+					"settings":
+					{
+						"buffer_size": 994,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/device_events/_activation_event.html.haml",
+					"settings":
+					{
+						"buffer_size": 525,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/device_events/_activation_listing.html.haml",
+					"settings":
+					{
+						"buffer_size": 870,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "db/migrate/20200113223150_change_device_params.rb",
+					"settings":
+					{
+						"buffer_size": 309,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/menu_item.rb",
+					"settings":
+					{
+						"buffer_size": 4812,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/admin/menu_items_controller.rb",
+					"settings":
+					{
+						"buffer_size": 5164,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/downlink_event.rb",
+					"settings":
+					{
+						"buffer_size": 2880,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/device_type.rb",
+					"settings":
+					{
+						"buffer_size": 647,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/controllers/device_events_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1956,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/views/modals/_wmeter_sync_reading.html.haml",
+					"settings":
+					{
+						"buffer_size": 1898,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "app/models/meter_flow.rb",
+					"settings":
+					{
+						"buffer_size": 294,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"in",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/krpec/dev/rd2code/noria-alarms",
+				"/home/krpec/dev/rd2code/noria-alarms/bin",
+				"/home/krpec/dev/rd2code/noria-alarms/db",
+				"/home/krpec/dev/rd2code/noria-alarms/log"
+			],
+			"file_history":
+			[
+				"/home/krpec/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+				"/home/krpec/.bashrc",
+				"/home/krpec/bin/spirit-fbl/settings.sh",
+				"/home/krpec/dev/rd2code/noria-alarms/log/nom_production.log",
+				"/home/krpec/dev/rd2code/noria-alarms/log/produkce.log",
+				"/home/krpec/LSdocs-password",
+				"/home/krpec/doc/Dittrichovi/Roman DP2019.txt",
+				"/home/krpec/dev/hw/midinomad/midinomad.ino",
+				"/home/krpec/dev/hw/program_change_nomad_100.md",
+				"/etc/X11/xorg.conf.d/00-keyboard.conf",
+				"/home/krpec/dev/rd2code/noria-alarms/app/assets/javascripts/application.js.coffee",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_params/index.js.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_params/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_flows/index.js.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_flows/_meter_flow.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_params/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/ability.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/request_logs/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/pump_time.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/menu_item.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/pump_times/index.js.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/pump_times/_pump_time.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_alarm_label_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs/shared.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20200109174315_remove_meter_min_reading_id_from_devices.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190905173421_remove_messages_update_device_events.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/schema.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/devices_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs/models.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_device_type_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/device_types_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/request_logs_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/application_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/.gitignore",
+				"/home/krpec/dev/rd2code/noria-alarms/app/jobs/device_email_job.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_params/_meter_param.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_params/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/meter_flow.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/device_type.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_alarms/_device_alarm_user.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_alarms/_device_alarm_history.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_groups/_device_group.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190708214852_create_messages.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/device_event.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/system_settings_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/menus_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/request_logs/_request_log.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/user.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/token.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20191102161124_add_token_id_to_device_events.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/api/events_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_types/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/concerns/listing_id.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20191102154433_add_pac_to_tokens.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190718221538_remove_value_from_tokens.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/manufacturer.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_device_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_types/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_types/index.js.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/routes.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/device_alarms_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/pump_times_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/helpers/menu_item_active.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/menu_items_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_types/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/device_alarm.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/device_events_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/device.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_menu_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/load_token.js.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_token_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_alarms/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/assets/stylesheets/device.scss",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/device_types/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/devices/_device.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/shared/_menu_item_form.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/tokens/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/_menu.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_groups/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/users/_user.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/assets/javascripts/client.js.coffee",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/system_settings/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/users/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190623202008_create_device_types.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/application_record.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190902214919_add_fields_to_device_events.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/layouts/_navbar_menu_xxx.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_events/_device_event.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/menus/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190730194140_create_device_events.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/system_setting.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/manufacturers/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_flows/edit.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20191009231106_add_alarm_type.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/meter_type.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/pump_times/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/meter_flows/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190624110359_create_device_alarms.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/README.md",
+				"/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/manufacturers_controller.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/config/environments/production.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs/time.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs/views.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs.yml",
+				"/home/krpec/dev/rd2code/noria-alarms/config/deploy/production.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/Gemfile",
+				"/home/krpec/dev/rd2code/noria-alarms/db/migrate/20190528090722_create_system_settings.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/db/seeds.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/lib/tasks/nom.rake",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/alarm_labels/_alarm_label.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/show.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/users/new.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/_message.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/_listing.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/admin/messages/index.html.haml",
+				"/home/krpec/dev/rd2code/noria-alarms/app/models/alarm_label.rb",
+				"/home/krpec/dev/rd2code/noria-alarms/app/views/device_alarms/show.html.haml"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 161.0,
+				"where_history":
+				[
+					"/home/krpec/dev/rd2code/noria-alarms/app/",
+					"/home/krpec/dev/rd2code/noria-alarms/app/,<open folders>",
+					"/home/krpec/dev/rd2code/noria-alarms/",
+					"/home/krpec/dev/rd2code/noria-alarms/app/",
+					"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs",
+					"/home/krpec/dev/rd2code/noria-alarms/app",
+					"/home/krpec/dev/rd2code/noria-alarms/config/locales/cs",
+					"/home/krpec/dev/rd2code/noria-alarms/app/models",
+					"/home/krpec/dev/rd2code/noria-alarms/app/views",
+					"/home/krpec/dev/rd2code/noria-alarms",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"wmeter_set_param",
+					"\\\"",
+					"check_and_parse_events",
+					"TEST_PAYLOAD",
+					"Alarmů",
+					"after_create",
+					"observer?",
+					"user_device_path(",
+					"TEST_SEQ",
+					"DeviceEmailJob",
+					"consumption_from",
+					"nom_system",
+					"down",
+					"enumerize:",
+					"tokens",
+					"flash",
+					"meter_type",
+					"water_meter_number",
+					".options",
+					"meter_type",
+					" = if ",
+					"f.select",
+					".expiration_date",
+					"is_expired",
+					"!\n",
+					"Neaktivni",
+					"Aktivni",
+					"enumezire:",
+					".col-(.*)",
+					".d-flex",
+					".col-.",
+					".col-9",
+					".col-.",
+					".d-flex",
+					"validates",
+					"-sm-",
+					"Diagnostika",
+					"= image_tag",
+					"%img",
+					"link_to",
+					"msg.content",
+					"msg",
+					"curl",
+					"TYPE",
+					"msg",
+					"find_by",
+					"msg",
+					"message",
+					"¡­",
+					"£¬",
+					"menu",
+					"@menu",
+					":coffee",
+					":cofee"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"",
+					"self",
+					"meter_param",
+					"meter_flow",
+					"Neaktivní",
+					"Aktivní",
+					"",
+					"-",
+					"self.raw_data",
+					"TLAKAN_TYPE",
+					"event",
+					"Message",
+					"msg",
+					"...",
+					"'",
+					"device_type"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/krpec/dev/rd2code/noria-alarms"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 60,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "config/locales/cs/views.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18587,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 41,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "app/helpers/menu_item_active.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5080,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1512.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 53,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "app/controllers/api/events_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9672,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 31,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "app/models/device_event.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24389,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 32,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "app/models/device.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29843,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2135,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										622,
+										622
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 67,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "app/views/shared/_manufacturer_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 809,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 71,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "app/views/admin/meter_params/_listing.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 842,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										842,
+										842
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 73,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "app/views/shared/_meter_type_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1457,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 59,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "app/views/admin/request_logs/show.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1740,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1690,
+										1690
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 111,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "app/views/admin/request_logs/index.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2497,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 109,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "app/views/admin/request_logs/index.js.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 126,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										126,
+										126
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 110,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "app/views/pump_times/index.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 349,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 83,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "app/views/admin/manufacturers/index.js.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 136,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										136,
+										136
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 82,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "app/views/admin/meter_flows/index.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 483,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										351,
+										351
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 78,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "app/views/admin/meter_flows/_listing.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 794,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 72,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "app/models/manufacturer.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 222,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										222,
+										222
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 81,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "app/models/meter_type.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 333,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										268,
+										268
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 80,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "app/models/meter_param.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 441,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										437,
+										437
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 68,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "config/routes.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5601,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 79,
+							"type": "text"
+						},
+						{
+							"buffer": 20,
+							"file": "app/views/admin/meter_types/new.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 128,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										128,
+										128
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 74,
+							"type": "text"
+						},
+						{
+							"buffer": 21,
+							"file": "app/views/admin/meter_types/_meter_type.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 243,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										208,
+										208
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 86,
+							"type": "text"
+						},
+						{
+							"buffer": 22,
+							"file": "db/migrate/20190905175746_device_events_addons.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 382,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										381,
+										381
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 23,
+							"file": "db/migrate/20190930192600_change_default_lqi.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 264,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 24,
+							"file": "app/views/shared/_meter_param_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1593,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1593,
+										1593
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 70,
+							"type": "text"
+						},
+						{
+							"buffer": 25,
+							"file": "db/seeds.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3696,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1554.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 75,
+							"type": "text"
+						},
+						{
+							"buffer": 26,
+							"file": "app/views/shared/_meter_flow_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1457,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 63,
+							"type": "text"
+						},
+						{
+							"buffer": 27,
+							"file": "app/models/system_setting.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5682,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 76,
+							"type": "text"
+						},
+						{
+							"buffer": 28,
+							"file": "app/views/tokens/import.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 128,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										74,
+										74
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 119,
+							"type": "text"
+						},
+						{
+							"buffer": 29,
+							"file": "app/views/shared/_token_import_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 647,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 118,
+							"type": "text"
+						},
+						{
+							"buffer": 30,
+							"file": "app/controllers/tokens_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4087,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 21.0,
+								"translation.y": 672.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 94,
+							"type": "text"
+						},
+						{
+							"buffer": 31,
+							"file": "app/views/shared/_view_head.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 633,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 114,
+							"type": "text"
+						},
+						{
+							"buffer": 32,
+							"file": "app/models/token.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2688,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": false,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 98,
+							"type": "text"
+						},
+						{
+							"buffer": 33,
+							"file": "app/views/tokens/show.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1618,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 88,
+							"type": "text"
+						},
+						{
+							"buffer": 34,
+							"file": "app/models/concerns/listing_id.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1184,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1039,
+										1039
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 85,
+							"type": "text"
+						},
+						{
+							"buffer": 35,
+							"file": "app/helpers/application_helper.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4352,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 96,
+							"type": "text"
+						},
+						{
+							"buffer": 36,
+							"file": "app/controllers/pump_times_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1036,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "class PumpTimesController < ApplicationController",
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 99,
+							"type": "text"
+						},
+						{
+							"buffer": 37,
+							"file": "app/views/shared/_actions_column.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1459,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 23,
+							"type": "text"
+						},
+						{
+							"buffer": 38,
+							"file": "app/controllers/admin/alarm_labels_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1698,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 106,
+							"type": "text"
+						},
+						{
+							"buffer": 39,
+							"file": "app/views/admin/alarm_labels/index.js.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 136,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										136,
+										136
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 101,
+							"type": "text"
+						},
+						{
+							"buffer": 40,
+							"file": "app/views/admin/alarm_labels/edit.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 129,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										129,
+										129
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 105,
+							"type": "text"
+						},
+						{
+							"buffer": 41,
+							"file": "app/views/admin/alarm_labels/_listing.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 865,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 102,
+							"type": "text"
+						},
+						{
+							"buffer": 42,
+							"file": "app/views/admin/alarm_labels/index.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 489,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										489,
+										489
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 84,
+							"type": "text"
+						},
+						{
+							"buffer": 43,
+							"file": "app/views/admin/alarm_labels/new.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										128,
+										128
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 108,
+							"type": "text"
+						},
+						{
+							"buffer": 44,
+							"file": "app/views/shared/_alarm_label_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3457,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 89,
+							"type": "text"
+						},
+						{
+							"buffer": 45,
+							"file": "Gemfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5139,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1080.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 100,
+							"type": "text"
+						},
+						{
+							"buffer": 46,
+							"file": "config/schedule.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3979,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										699,
+										699
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 21,
+							"type": "text"
+						},
+						{
+							"buffer": 47,
+							"file": "app/jobs/avg_pump_times_job.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2329,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true,
+									"wrap_width": 0
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 22,
+							"type": "text"
+						},
+						{
+							"buffer": 48,
+							"file": "app/views/admin/menu_items/_menu_item.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1745,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 17.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 90,
+							"type": "text"
+						},
+						{
+							"buffer": 49,
+							"file": "app/views/admin/menu_items/_listing.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1290,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 40,
+							"type": "text"
+						},
+						{
+							"buffer": 50,
+							"file": "app/controllers/devices_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34817,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5082.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 37,
+							"type": "text"
+						},
+						{
+							"buffer": 51,
+							"file": "db/migrate/20191012092848_change_token_scale.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 197,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 113,
+							"type": "text"
+						},
+						{
+							"buffer": 52,
+							"file": "app/views/tokens/_token.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1600,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 92,
+							"type": "text"
+						},
+						{
+							"buffer": 53,
+							"file": "app/views/device_alarms/_device_alarm.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1159,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 93,
+							"type": "text"
+						},
+						{
+							"buffer": 54,
+							"file": "db/schema.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25194,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17294,
+										17294
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5725.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 55,
+							"file": "app/views/device_events/show.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32596,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										31326,
+										31326
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 56,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1064,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												372,
+												388
+											],
+											[
+												775,
+												791
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										1064,
+										1064
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 57,
+							"file": "/home/krpec/Downloads/LoRa-CRA.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4307,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2332,
+										2332
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 58,
+							"file": "/home/krpec/.config/picom/picom.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 73,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 59,
+							"file": "/home/krpec/.config/systemd/user/ssh-agent.service",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 186,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 60,
+							"file": "/home/krpec/.ssh-agent-thing",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 61,
+							"file": "log/nom_production.log",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 11049755,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1203811,
+										1203811
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 156413.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 62,
+							"file": "/home/krpec/LoRa-CRA.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4313,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1783,
+										1783
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 650.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 63,
+							"file": "app/controllers/registrations_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3006,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										407,
+										407
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 64,
+							"file": "/home/krpec/.bash_history",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 31035,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4423.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 65,
+							"file": "app/views/layouts/_header_navbar.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4457,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 18,
+							"type": "text"
+						},
+						{
+							"buffer": 66,
+							"file": "db/migrate/20200114224542_final_dparam_change.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										130,
+										130
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 44,
+							"type": "text"
+						},
+						{
+							"buffer": 67,
+							"file": "config/locales/cs/models.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18532,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": false,
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 68,
+							"file": "db/migrate/20200105224424_alarm_seq_bigint_event.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 470,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										470,
+										470
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 77,
+							"type": "text"
+						},
+						{
+							"buffer": 69,
+							"file": "db/migrate/20191209094245_add_water_meter_fields_to_device.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 264,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										264,
+										264
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 46,
+							"type": "text"
+						},
+						{
+							"buffer": 70,
+							"file": "app/models/device_param.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3839,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 27,
+							"type": "text"
+						},
+						{
+							"buffer": 71,
+							"file": "app/views/devices/diagnostics.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11276,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 14.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 72,
+							"file": "db/migrate/20190905182801_add_parse_method_to_device_types.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										141,
+										141
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 69,
+							"type": "text"
+						},
+						{
+							"buffer": 73,
+							"file": "db/migrate/20190910191742_add_watermeters_to_events.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 539,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										539,
+										539
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 74,
+							"file": "app/models/device_alarm.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5316,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1050.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 24,
+							"type": "text"
+						},
+						{
+							"buffer": 75,
+							"file": "app/views/devices/_device.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2266,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 66,
+							"type": "text"
+						},
+						{
+							"buffer": 76,
+							"file": "app/views/device_events/_device_event.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1562,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 39,
+							"type": "text"
+						},
+						{
+							"buffer": 77,
+							"file": "app/views/device_events/activation.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 532,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 48,
+							"type": "text"
+						},
+						{
+							"buffer": 78,
+							"file": "app/views/admin/meter_types/edit.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 127,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										127,
+										127
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 60,
+							"type": "text"
+						},
+						{
+							"buffer": 79,
+							"file": "app/views/devices/new.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 121,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 97,
+							"type": "text"
+						},
+						{
+							"buffer": 80,
+							"file": "app/models/alarm_label.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 775,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 91,
+							"type": "text"
+						},
+						{
+							"buffer": 81,
+							"file": "db/migrate/20191023221553_create_pump_times.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										325,
+										325
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 103,
+							"type": "text"
+						},
+						{
+							"buffer": 82,
+							"file": "app/views/admin/menus/show.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1152,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 117,
+							"type": "text"
+						},
+						{
+							"buffer": 83,
+							"file": "app/views/admin/menus/_menu.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 233,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										233,
+										233
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 107,
+							"type": "text"
+						},
+						{
+							"buffer": 32,
+							"file": "app/models/token.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2688,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 57,
+							"type": "text"
+						},
+						{
+							"buffer": 84,
+							"file": "app/views/devices/show.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9024,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 56,
+							"type": "text"
+						},
+						{
+							"buffer": 85,
+							"file": "app/views/shared/_device_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8155,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 798.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 64,
+							"type": "text"
+						},
+						{
+							"buffer": 86,
+							"file": "app/views/devices/_listing.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2866,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 95,
+							"type": "text"
+						},
+						{
+							"buffer": 87,
+							"file": "app/views/admin/device_types/edit.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										130,
+										130
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 87,
+							"type": "text"
+						},
+						{
+							"buffer": 88,
+							"file": "app/views/shared/_system_setting_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1207,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 104,
+							"type": "text"
+						},
+						{
+							"buffer": 89,
+							"file": "app/views/shared/_show_actions.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1705,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 90,
+							"file": "config/deploy/production.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2440,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1492,
+										1492
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 116,
+							"type": "text"
+						},
+						{
+							"buffer": 91,
+							"file": "app/controllers/admin/menus_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1531,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 252.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 115,
+							"type": "text"
+						},
+						{
+							"buffer": 92,
+							"file": "app/views/admin/device_types/index.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 661,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										415,
+										415
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 120,
+							"type": "text"
+						},
+						{
+							"buffer": 93,
+							"file": "app/views/admin/device_types/_device_type.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 928,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 112,
+							"type": "text"
+						},
+						{
+							"buffer": 94,
+							"file": "app/views/layouts/_navbar_menu.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3116,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 20,
+							"type": "text"
+						},
+						{
+							"buffer": 95,
+							"file": "app/views/pump_times/_listing.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 994,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 19,
+							"type": "text"
+						},
+						{
+							"buffer": 96,
+							"file": "app/views/device_events/_activation_event.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 525,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 42,
+							"type": "text"
+						},
+						{
+							"buffer": 97,
+							"file": "app/views/device_events/_activation_listing.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 870,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 47,
+							"type": "text"
+						},
+						{
+							"buffer": 98,
+							"file": "db/migrate/20200113223150_change_device_params.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 309,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										309,
+										309
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 45,
+							"type": "text"
+						},
+						{
+							"buffer": 99,
+							"file": "app/models/menu_item.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4812,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 52,
+							"type": "text"
+						},
+						{
+							"buffer": 100,
+							"file": "app/controllers/admin/menu_items_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5164,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1428.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 51,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "app/models/device_event.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24389,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 25,
+							"type": "text"
+						},
+						{
+							"buffer": 101,
+							"file": "app/models/downlink_event.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2880,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 28,
+							"type": "text"
+						},
+						{
+							"buffer": 102,
+							"file": "app/models/device_type.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 647,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 30,
+							"type": "text"
+						},
+						{
+							"buffer": 103,
+							"file": "app/controllers/device_events_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1956,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 29,
+							"type": "text"
+						},
+						{
+							"buffer": 71,
+							"file": "app/views/devices/diagnostics.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11276,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 894.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 38,
+							"type": "text"
+						},
+						{
+							"buffer": 70,
+							"file": "app/models/device_param.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3839,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 36,
+							"type": "text"
+						},
+						{
+							"buffer": 80,
+							"file": "app/models/alarm_label.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 775,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 49,
+							"type": "text"
+						},
+						{
+							"buffer": 74,
+							"file": "app/models/device_alarm.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5316,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 50,
+							"type": "text"
+						},
+						{
+							"buffer": 67,
+							"file": "config/locales/cs/models.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18532,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": false,
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4200.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 35,
+							"type": "text"
+						},
+						{
+							"buffer": 104,
+							"file": "app/views/modals/_wmeter_sync_reading.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1898,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 34,
+							"type": "text"
+						},
+						{
+							"buffer": 84,
+							"file": "app/views/devices/show.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9024,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1092.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 65,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "app/models/meter_param.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 441,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										441,
+										441
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 58,
+							"type": "text"
+						},
+						{
+							"buffer": 0,
+							"file": "config/locales/cs/views.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18587,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 347.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 33,
+							"type": "text"
+						},
+						{
+							"buffer": 50,
+							"file": "app/controllers/devices_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34817,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4830.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 26,
+							"type": "text"
+						},
+						{
+							"buffer": 32,
+							"file": "app/models/token.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2688,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": false,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 54,
+							"type": "text"
+						},
+						{
+							"buffer": 54,
+							"file": "db/schema.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25194,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3672.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 55,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "config/routes.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5601,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 61,
+							"type": "text"
+						},
+						{
+							"buffer": 105,
+							"file": "app/models/meter_flow.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 294,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										228,
+										228
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 62,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "app/models/device.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29843,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"spell_check": true,
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 43,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 59.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,2240,37,3196,1078,3200,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"header",
+						"app/views/layouts/_header_navbar.html.haml"
+					],
+					[
+						"pumplis",
+						"app/views/pump_times/_listing.html.haml"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"deviala",
+						"app/models/device_alarm.rb"
+					],
+					[
+						"diag",
+						"app/views/devices/diagnostics.html.haml"
+					],
+					[
+						"",
+						"app/controllers/devices_controller.rb"
+					],
+					[
+						"devipa",
+						"app/models/device_param.rb"
+					],
+					[
+						"devices",
+						"app/controllers/devices_controller.rb"
+					],
+					[
+						"devicetype",
+						"app/models/device_type.rb"
+					],
+					[
+						"down",
+						"app/models/downlink_event.rb"
+					],
+					[
+						"events",
+						"app/controllers/api/events_controller.rb"
+					],
+					[
+						"device_para",
+						"app/models/device_param.rb"
+					],
+					[
+						"deviceeve",
+						"app/models/device_event.rb"
+					],
+					[
+						"device_eve",
+						"app/models/device_event.rb"
+					],
+					[
+						"view",
+						"config/locales/cs/views.yml"
+					],
+					[
+						"devicepa",
+						"app/models/device_param.rb"
+					],
+					[
+						"models",
+						"config/locales/cs/models.yml"
+					],
+					[
+						"device",
+						"app/models/device.rb"
+					],
+					[
+						"final",
+						"db/migrate/20200114224542_final_dparam_change.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"device_param",
+						"app/models/device_param.rb"
+					],
+					[
+						"changedevi",
+						"db/migrate/20200113223150_change_device_params.rb"
+					],
+					[
+						"alarmlabfo",
+						"app/views/shared/_alarm_label_form.html.haml"
+					],
+					[
+						"alar",
+						"app/models/alarm_label.rb"
+					],
+					[
+						"device_event",
+						"app/models/device_event.rb"
+					],
+					[
+						"menuitems",
+						"app/controllers/admin/menu_items_controller.rb"
+					],
+					[
+						"menu_item",
+						"app/models/menu_item.rb"
+					],
+					[
+						"views",
+						"config/locales/cs/views.yml"
+					],
+					[
+						"token",
+						"app/models/token.rb"
+					],
+					[
+						"deviceshow",
+						"app/views/devices/show.html.haml"
+					],
+					[
+						"metertypefo",
+						"app/views/shared/_meter_type_form.html.haml"
+					],
+					[
+						"metertypeedi",
+						"app/views/admin/meter_types/edit.html.haml"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"meter_param",
+						"app/models/meter_param.rb"
+					],
+					[
+						"meterflow",
+						"app/models/meter_flow.rb"
+					],
+					[
+						"devicefor",
+						"app/views/shared/_device_form.html.haml"
+					],
+					[
+						"devicesho",
+						"app/views/devices/show.html.haml"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"meterpara",
+						"app/models/meter_param.rb"
+					],
+					[
+						"devices_controller",
+						"app/controllers/devices_controller.rb"
+					],
+					[
+						"meter_type",
+						"app/models/meter_type.rb"
+					],
+					[
+						"manufacturer",
+						"app/models/manufacturer.rb"
+					],
+					[
+						"ability.",
+						"app/models/ability.rb"
+					],
+					[
+						"flow",
+						"app/models/meter_flow.rb"
+					],
+					[
+						"type",
+						"app/models/meter_type.rb"
+					],
+					[
+						"sys",
+						"app/models/system_setting.rb"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"_meter_flow",
+						"app/views/admin/meter_flows/_meter_flow.html.haml"
+					],
+					[
+						"ability",
+						"app/models/ability.rb"
+					],
+					[
+						"menuitemscot",
+						"app/controllers/admin/menu_items_controller.rb"
+					],
+					[
+						"meterpa",
+						"app/models/meter_param.rb"
+					],
+					[
+						"readme",
+						"README.md"
+					],
+					[
+						"meter_flo",
+						"app/models/meter_flow.rb"
+					],
+					[
+						"manufac",
+						"app/models/manufacturer.rb"
+					],
+					[
+						"menuitecs",
+						"app/controllers/admin/menu_items_controller.rb"
+					],
+					[
+						"menuiteac",
+						"app/helpers/menu_item_active.rb"
+					],
+					[
+						"menuitem",
+						"app/models/menu_item.rb"
+					],
+					[
+						"metertypesind",
+						"app/views/admin/meter_types/index.html.haml"
+					],
+					[
+						"event",
+						"app/models/device_event.rb"
+					],
+					[
+						"listin",
+						"app/models/concerns/listing_id.rb"
+					],
+					[
+						"listing",
+						"app/models/concerns/listing_id.rb"
+					],
+					[
+						"show",
+						"app/views/device_events/show.html.haml"
+					],
+					[
+						"applicacoff",
+						"app/assets/javascripts/application.js.coffee"
+					],
+					[
+						"menuites",
+						"app/controllers/admin/menu_items_controller.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"menu_i",
+						"app/models/menu_item.rb"
+					],
+					[
+						"to",
+						"app/models/token.rb"
+					],
+					[
+						"eve",
+						"app/controllers/api/events_controller.rb"
+					],
+					[
+						"_devi",
+						"app/views/device_events/_device_event.html.haml"
+					],
+					[
+						"de",
+						"app/models/device_event.rb"
+					],
+					[
+						"system",
+						"app/models/system_setting.rb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"_device",
+						"app/views/devices/_device.html.haml"
+					],
+					[
+						"pro",
+						"config/deploy/production.rb"
+					],
+					[
+						"pump_time",
+						"app/models/pump_time.rb"
+					],
+					[
+						"syste",
+						"app/models/system_setting.rb"
+					],
+					[
+						"deviteype",
+						"app/models/device_type.rb"
+					],
+					[
+						"syse",
+						"app/models/system_setting.rb"
+					],
+					[
+						"device_alarm",
+						"app/models/device_alarm.rb"
+					],
+					[
+						"tokens",
+						"app/controllers/tokens_controller.rb"
+					],
+					[
+						"mode",
+						"config/locales/cs/models.yml"
+					],
+					[
+						"adddevi",
+						"db/migrate/20191102161124_add_token_id_to_device_events.rb"
+					],
+					[
+						"addtoken",
+						"db/migrate/20191102161124_add_token_id_to_device_events.rb"
+					],
+					[
+						"token.",
+						"app/models/token.rb"
+					],
+					[
+						"add_pac",
+						"db/migrate/20191102154433_add_pac_to_tokens.rb"
+					],
+					[
+						"new",
+						"app/views/devices/new.html.haml"
+					],
+					[
+						"dep/",
+						"config/deploy/production.rb"
+					],
+					[
+						"pumptimcon",
+						"app/controllers/pump_times_controller.rb"
+					],
+					[
+						"devievents",
+						"app/controllers/device_events_controller.rb"
+					],
+					[
+						"deviceala",
+						"app/models/device_alarm.rb"
+					],
+					[
+						"deviec",
+						"app/models/device.rb"
+					],
+					[
+						"pump",
+						"app/models/pump_time.rb"
+					],
+					[
+						"menu_",
+						"app/models/menu_item.rb"
+					],
+					[
+						"pumptimes",
+						"app/controllers/pump_times_controller.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"abilit",
+						"app/models/ability.rb"
+					],
+					[
+						"produc",
+						"config/deploy/production.rb"
+					],
+					[
+						"model ",
+						"config/locales/cs/models.yml"
+					],
+					[
+						"system_setting",
+						"app/models/system_setting.rb"
+					],
+					[
+						"devicessho",
+						"app/views/devices/show.html.haml"
+					],
+					[
+						"deival",
+						"app/models/device_alarm.rb"
+					],
+					[
+						"deviceal",
+						"app/models/device_alarm.rb"
+					],
+					[
+						"ala",
+						"app/models/alarm_label.rb"
+					],
+					[
+						"device_events",
+						"app/controllers/device_events_controller.rb"
+					],
+					[
+						"devices show",
+						"app/views/devices/show.html.haml"
+					],
+					[
+						"deviceev",
+						"app/models/device_event.rb"
+					],
+					[
+						"devieev",
+						"app/models/device_event.rb"
+					],
+					[
+						"deviceeven",
+						"app/models/device_event.rb"
+					],
+					[
+						"devievesho",
+						"app/views/device_events/show.html.haml"
+					],
+					[
+						"edit",
+						"app/views/devices/edit.html.haml"
+					],
+					[
+						"alarmlabels",
+						"app/controllers/admin/alarm_labels_controller.rb"
+					],
+					[
+						"devitypefo",
+						"app/views/shared/_device_type_form.html.haml"
+					],
+					[
+						"tokenfor",
+						"app/views/shared/_token_form.html.haml"
+					],
+					[
+						"menusnew",
+						"app/views/admin/menus/new.html.haml"
+					],
+					[
+						"menuinde",
+						"app/views/admin/menus/index.html.haml"
+					],
+					[
+						"devicegrinde",
+						"app/views/device_groups/index.html.haml"
+					],
+					[
+						"index",
+						"app/views/device_events/index.html.haml"
+					],
+					[
+						"abili",
+						"app/models/ability.rb"
+					],
+					[
+						"alarmlabel",
+						"app/controllers/admin/alarm_labels_controller.rb"
+					],
+					[
+						"menuitema",
+						"app/helpers/menu_item_active.rb"
+					],
+					[
+						"menuite",
+						"app/models/menu_item.rb"
+					],
+					[
+						"devise",
+						"config/initializers/devise.rb"
+					],
+					[
+						"devicealasho",
+						"app/views/device_alarms/show.html.haml"
+					],
+					[
+						"actions",
+						"app/views/shared/_actions_column.html.haml"
+					],
+					[
+						"showac",
+						"app/views/shared/_show_actions.html.haml"
+					],
+					[
+						"deveve",
+						"app/models/device_event.rb"
+					],
+					[
+						"devial",
+						"app/models/device_alarm.rb"
+					],
+					[
+						"_deviala",
+						"app/views/device_alarms/_device_alarm.html.haml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 196.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 61,
+			"workspace_name": "/home/krpec/dev/rd2code/noria-alarms/noria-alarms.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/krpec/dev/rd2code/noria-alarms/noria-alarms.sublime-workspace",
+			"/home/krpec/dev/qmk_firmware/qmk_firmware.sublime-workspace",
+			"/home/krpec/dev/rd2code/colorcms/colorcms.sublime-workspace",
+			"/home/krpec/dev/salmon/salmonportal/salmonaccess.sublime-workspace",
+			"/home/krpec/dev/qmk_firmware/autocomplete.sublime-workspace",
+			"/home/krpec/dev/rd2code/gboxpi/gboxpi.sublime-workspace"
+		]
+	}
+}

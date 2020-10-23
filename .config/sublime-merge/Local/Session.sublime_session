@@ -1,0 +1,73 @@
+{
+	"last_version": 2032,
+	"previous_commit_messages":
+	[
+		"Merge branch 'develop' of bitbucket.org:kvdev0/noria-alarms into develop\n\n"
+	],
+	"project_dir": "/home/krpec/",
+	"recent":
+	[
+		{
+			"expanded_refs":
+			{
+				"refs/heads/": false
+			},
+			"locations_tab_selected": false,
+			"path": "/home/krpec/dev/rd2code/noria-alarms",
+			"search":
+			{
+				"history":
+				[
+				]
+			},
+			"show_untracked_files": false,
+			"side_bar_visible": true,
+			"table_of_contents_tab_selected": false,
+			"table_of_contents_tree_mode": false
+		},
+		{
+			"ignore_diff_whitespace": false,
+			"location_bar_visible": false,
+			"path": "/home/krpec/dev/qmk_firmware",
+			"table_of_contents_selected": false,
+			"table_of_contents_tree_mode": false,
+			"window_height": 1037.0,
+			"window_width": 1916.0
+		},
+		{
+			"ignore_diff_whitespace": false,
+			"location_bar_visible": false,
+			"path": "/home/krpec/dev/rd2code/colorcms",
+			"table_of_contents_selected": false,
+			"table_of_contents_tree_mode": false,
+			"window_height": 1037.0,
+			"window_width": 956.0
+		}
+	],
+	"select_repository":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~dev/rd2code/noria-alarms"
+			]
+		],
+		"width": 380.0
+	},
+	"windows":
+	[
+		{
+			"position": "0,0,0,0,0,640,548,1276,1022,3200,1080",
+			"tabs":
+			[
+				{
+					"path": "/home/krpec/dev/rd2code/noria-alarms",
+					"selected": true
+				}
+			]
+		}
+	]
+}
