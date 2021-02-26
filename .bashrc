@@ -40,6 +40,9 @@ alias ch='git checkout'
 alias gf='git fetch -v'
 alias config='/usr/bin/git --git-dir=/home/krpec/.cfg/ --work-tree=/home/krpec'
 
+alias czkb='setxkbmap cz qwerty'
+alias uskb='setxkbmap us'
+
 # Prompt setup
 PS1='[\u@\h \w]\$'
 

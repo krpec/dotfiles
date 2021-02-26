@@ -244,4 +244,5 @@ for_window [class="Vivaldi"] border pixel
 
 assign [class="Thunderbird"] $ws4
 assign [class="Sylpheed"] $ws4
+assign [class="Mailspring"] $ws4
 assign [class="Transmission"] $ws9

@@ -242,7 +242,5 @@ for_window [class="Firefox"] border pixel
 for_window [class="Chromium"] border pixel
 for_window [class="Vivaldi"] border pixel
 
-assign [class="Thunderbird"] $ws4
-assign [class="Sylpheed"] $ws4
-assign [class="Mailspring"] $ws4
+assign [class="Evolution"] $ws4
 assign [class="Transmission"] $ws9
