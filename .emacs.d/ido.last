@@ -20,11 +20,14 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/krpec/.emacs.d/"
+ "/home/krpec/"
+ "/home/krpec/org/"
+ "/home/krpec/dev/rd2code/noria-alarms/app/controllers/api/"
  "/sudo:krpec-optiplex:/etc/xdg/"
  "/home/krpec/.config/picom/"
  "/home/krpec/.config/i3/"
  "/home/krpec/dev/rd2code/noria-alarms/app/controllers/"
- "/home/krpec/dev/rd2code/noria-alarms/app/controllers/api/"
  "/home/krpec/dev/rd2code/noria-alarms/app/controllers/concerns/"
  "/home/krpec/dev/rd2code/noria-alarms/app/models/"
  "/home/krpec/dev/rd2code/noria-alarms/config/locales/en/"
@@ -36,9 +39,7 @@
  "/home/krpec/dev/rd2code/noria-alarms/app/jobs/"
  "/sudo:krpec-optiplex:/usr/share/nginx/html/"
  "/sudo:krpec-optiplex:/etc/chirpstack-application-server/"
- "/home/krpec/.emacs.d/"
  "/home/krpec/dev/rd2code/colorcms/"
- "/home/krpec/"
  "/home/krpec/dev/rd2code/noria-alarms/"
  "/sudo:krpec-optiplex:/etc/"
  "/optikaalexa.cz:/home/webapp/applications/alexa/application/app/views/"
@@ -71,27 +72,35 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "init.el"
+ ".notes"
+ "salmon.org"
+ "nom.org"
+ "house.org"
+ "home.org"
+ "clr.org"
+ "events_controller.rb"
  "picom.conf"
  "config"
- "devices_controller.rb"
- "events_controller.rb"
- "sigfox_api.rb"
- "private_test.rb"
- "sigfox_controller.rb"
- "shared.yml"
- "_error_messages.html.haml"
- "application.html.haml"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/sudo:krpec-optiplex:/etc/xdg/" (ftp . 448426.5190355071) "autostart/" "systemd/" "./" "tumbler/" "Thunar/" "xfce4/" "picom.conf" "Xwayland-session.d/" "../")
+ ("/home/krpec/.emacs.d/" (24653 15618 706637 211000) "elpa/" "init.el~" "#ido.last#" "./" "init.el" "themes/" "tramp" "bookmarks" "ido.last~" "tutorial/" "../" "auto-save-list/" "eshell/" "transient/" "ido.last" "magithub/")
 
- ("/sudo:krpec-optiplex:/etc/" (ftp . 448426.51859768474) "gssproxy/" "machine-id" "mailcap" "mtools.conf" "bash.bashrc" "fuse.conf" "hosts" "krb5.conf" "netconfig" "slsh.rc" "i3status.conf" "udev/" "libaudit.conf" "autofs/" "nas/" "libnl/" "X11/" "resolv.conf" "gss/" "NetworkManager/" "rhashrc" "inputrc" "group-" "e2scrub.conf" "nsswitch.conf" "trusted-key.key" "xinetd.d/" "profile.d/" "sudoers.d/" "dhcpcd.conf" "audit/" "bash.bash_logout" "wgetrc" "openldap/" "polkit-1/" "systemd/" "rsyncd.conf" "environment" "vimrc" "libblockdev/" "securetty" "resolv.conf.bak" "mkinitcpio.conf" "whois.conf" "xdg/" "lvm/" "nginx/" ".updated" "profile" "crypttab" "ctdb/" "binfmt.d/" "./" "grub.d/" "modprobe.d/" "os-release" "lightdm/" "gtk-3.0/" "hostname" "pacman.conf~" "mail.rc" "xml/" "mke2fs.conf" "openmpi/" "i3/" "ts.conf" "java-openjdk/" "default/" "ndctl/" "alsa/" "geoclue/" "pacman.conf" "dconf/" "adjtime" "exports" "group" "request-key.d/" "gimp/" "libva.conf" "ld.so.conf.d/" "my.cnf.d/" "ethertypes" "zsh/" "passwd" "mime.types" "exports.d/" "locale.gen" "makepkg.conf" "sensors.d/" "arch-release" "modules-load.d/" "kernel/" "nfsmount.conf" "shadow" "skel/" "ssl/" "host.conf" "resolvconf.conf" "mysql/" "iproute2/" "avahi/" "rc_keymaps/" "pulse/" "../" "wpa_supplicant/" "ImageMagick-7/" "tmpfiles.d/" "sysctl.d/" "sensors3.conf" "ODBCDataSources/" "idmapd.conf" "gshadow-" "passwd-" "shadow-" "ca-certificates/" "protocols" "ld.so.conf" "gemrc" "localtime" "mkinitcpio.d/" "ssh/" "ImageMagick-6/" "ld.so.cache" "login.defs" "man_db.conf" "avrdude.conf" "mdadm.conf" "mc/" "odbc.ini" "sudoers" "rc_maps.cfg" "sudoers.pacnew" "sudo_logsrvd.conf" "bindresvport.blacklist" "services" "apparmor.d/" "request-key.conf" "libpaper.d/" "hosts~" "issue" "my.cnf" "nfs.conf" "logrotate.conf" "keyutils/" "sudo.conf" "fstab" "shadow.pacnew" "pacman.conf.old" "initcpio/" "fonts/" "rpc" "papersize" "libinput/" "locale.gen.pacnew" "mtab" "xattr.conf" "gtk-2.0/" "UPower/" "motd" "pacman.d/" "logrotate.d/" "odbcinst.ini" "nanorc" "gshadow" "libreoffice/" ".pwd.lock" "ifplugd/" "healthd.conf" "php/" "udisks2/" "pam.d/" "depmod.d/" "vdpau_wrapper.cfg" "pkcs11/" "locale.conf" "dkms/" "conf.d/" "security/" "pipewire/" "netctl/" "nscd.conf" "nilfs_cleanerd.conf" "cifs-utils/" "samba/" "shells" "gssapi_mech.conf" "iptables/" "gai.conf")
+ ("/home/krpec/" (24653 14328 123313 426000) "LoRa-CRA.json" ".rvm/" ".bashrc" ".urxvt/" ".Xauthority" "Downloads/" ".tusk.json" ".gitignore~" "org/" ".java/" "LSdocs-password" ".ssh/" ".fonts/" "krp3c.eu-conf.tar.gz" ".bundle/" ".mozilla/" ".cfg/" "./" "new_faceplate.svg.2020_04_20_00_31_20.0.svg" ".mkshrc" "media/" ".gEDA/" "cuzk-1367-1.png" ".bash_logout" ".dmrc" ".irb-history" ".gitignore" ".local/" "Documents/" "Arduino/" ".emacs.d/" ".pEp/" ".xsessionrc" ".gem/" ".Xresources" ".rvmrc" ".esd_auth" "aur_builds/" ".cache/" ".FreeCAD/" ".bash_history" ".conky/" "emacs.d.tar.gz" ".zshrc" "New document 1.2020_04_16_19_11_42.0.svg" "games/" ".xsession-errors" ".bashrc~" "downloads/" ".wine/" ".xsession-errors.old" "Desktop" "triangulum_faceplate.svg" "doc/" ".pEp_management.db-shm" "new_faceplate.svg" ".gnome/" ".mysql_history" ".w3m/" ".bash_profile" ".ssh-agent-thing" "../" "bin/" ".notes~" "New document 1.2020_04_16_16_54_30.0.svg" ".gnupg/" ".fehbg" ".zlogin" ".pEp_management.db-wal" ".arduino15/" ".mysql/" ".Xresources~" ".pam_environment" ".pki/" ".config/" "flsdev.png" ".profile" "dev/" ".emacs~" ".notes" "nom_api.sql" "triangulum-faceplate-inverted-test-export.png" ".gitconfig" ".pEp_management.db" "Svatba full size.zip" ".links/" ".wget-hsts" "tribe_interview.docx")
 
- ("/sudo:krpec-optiplex:/" (ftp . 448426.5177931722) "usr/" "root/" "tmp/" "sbin/" "lost+found/" "lib/" "lib64/" "sys/" "./" "mnt/" "proc/" "dev/" "home/" "opt/" "boot/" "../" "srv/" "run/" "var/" "etc/" "bin/")
+ ("/home/krpec/org/" (24652 45421 409975 833000) "./" "unsorted.org" "clr.org" "nom.org~" ".git/" "../" "salmon.org" "nom.org" "home.org" "house.org~" "house.org")
 
- ("/home/krpec/" (24632 52704 685436 698000) "LoRa-CRA.json" ".rvm/" ".bashrc" ".urxvt/" ".Xauthority" "Downloads/" ".tusk.json" ".gitignore~" "org/" ".java/" "LSdocs-password" ".ssh/" ".fonts/" "krp3c.eu-conf.tar.gz" ".bundle/" ".mozilla/" ".cfg/" "./" "new_faceplate.svg.2020_04_20_00_31_20.0.svg" ".mkshrc" "media/" ".gEDA/" ".bash_logout" ".dmrc" ".irb-history" ".gitignore" ".local/" "Documents/" "Arduino/" ".emacs.d/" ".pEp/" ".xsessionrc" ".gem/" ".Xresources" ".rvmrc" ".esd_auth" "aur_builds/" ".cache/" ".FreeCAD/" ".bash_history" ".conky/" "emacs.d.tar.gz" ".zshrc" "New document 1.2020_04_16_19_11_42.0.svg" "games/" ".xsession-errors" ".bashrc~" "downloads/" ".wine/" ".xsession-errors.old" "Desktop" "triangulum_faceplate.svg" "doc/" ".pEp_management.db-shm" "new_faceplate.svg" ".gnome/" ".mysql_history" ".w3m/" ".bash_profile" ".ssh-agent-thing" "../" "bin/" "New document 1.2020_04_16_16_54_30.0.svg" ".gnupg/" ".fehbg" ".zlogin" ".pEp_management.db-wal" ".arduino15/" ".mysql/" ".Xresources~" ".pam_environment" ".pki/" ".config/" "flsdev.png" ".profile" "dev/" ".emacs~" "nom_api.sql" "triangulum-faceplate-inverted-test-export.png" ".gitconfig" ".pEp_management.db" "Svatba full size.zip" ".links/" ".wget-hsts" "tribe_interview.docx")
+ ("/home/krpec/dev/rd2code/noria-alarms/app/controllers/api/" (24650 45229 132092 513000) "./" "readme.dafuq" "events_controller.rb" "../")
+
+ ("/home/krpec/dev/rd2code/noria-alarms/app/controllers/" (24652 7660 236629 924000) "sessions_controller.rb" "invoices_controller.rb" "api/" "concerns/" "./" "sigfox_controller.rb" "device_params_controller.rb" "downlink_events_controller.rb" "device_groups_controller.rb" "device_logs_controller.rb~" "pump_times_controller.rb" "aff_group_compares_controller.rb" "users_controller.rb" "application_controller.rb" "invoice_infos_controller.rb" "devices_controller.rb" "sigfox_controller.rb~" "pages_controller.rb" "../" "device_logs_controller.rb" "tokens_controller.rb" "admin/" "device_alarms_controller.rb" "bank_transactions_controller.rb" "downlink_events_controller.rb~" "device_params_controller.rb~" "registrations_controller.rb" "device_events_controller.rb")
+
+ ("/home/krpec/dev/rd2code/noria-alarms/" (24650 45229 132092 513000) "log/" "Gemfile.lock" "README.md" "noria-alarms.sublime-workspace" "Rakefile" "./" "tmp/" "package.json" ".gitignore" "app/" ".byebug_history" ".ruby-version" "public/" ".git/" "doc/" "test/" "Capfile" "package-lock.json" "../" "config.ru" "bin/" "spec/" "Gemfile" "bootstrap-datetimepicker.js" "db/" "lib/" "config/" "vendor/")
+
+ ("/home/krpec/dev/rd2code/" (24611 45343 186312 567000) "yarms/" "production.log" "colorcms/" "./" "gboxpi/" "../" "uctomhb.cz/" "noria-alarms/" "soundlabel/")
+
+ ("/home/krpec/dev/" (24648 36500 699919 6000) "bash/" "waypoint.css.scss" "Workman/" "brainfuck/" "emacs_orgmode/" "haml/" "C#/" "./" "qmk_firmware/" "coloroptik-orange.png" "hw/" "deal.rb" "test.js.cofee" "taiga_log/" "myevic-master/" "Perl/" "ObjectiveC/" "C and Cpp/" "Lisp/" "homelab/" "portal_pt_locale/" "Soarer_Converter_v1/" "Arch-config/" "Ruby/" "_adminer.php" "song" "SALMON.INI" "rd2code/" "dev.tar.gz" "PHP/" "HISoftware/" "MultiWii 2.3/" "rails/" "international_inc_updated.bak" "Python/" "Soarer_sctools_v1.10_macosx/" "../" "lua/" "Java/" "salmon/" "db_dump.sql" "_backup[db]/" "charts-ok2.png" "abstract_interface.rb" "new_song" "Citationtech/" "pckgs.zip" "sublime-text-3/" "CLR/")
 
  ("/home/krpec/.config/picom/" (24032 14511 132976 836000) "./" "picom.conf" "../" "picom.conf~")
 
@@ -99,11 +108,7 @@
 
  ("/home/krpec/.config/" (24632 17057 899847 390000) "procps/" "picom/" "volumeicon/" "xfce4/" "enchant/" "epiphany/" "Tusk/" "menus/" "systemd/" "htop/" "./" "i3/" "GIMP/" "goa-1.0/" "pulse/" "google-chrome/" "blender/" "Thunar/" "autostart/" "vlc/" "sublime-merge/" "cmus/" "yay/" "mc/" "gtk-2.0/" "Trolltech.conf" "remmina/" "libreoffice/" "dunst/" "wireshark/" "Microsoft/" "teams/" "Microsoft Teams - Preview/" "configstore/" "Skype/" "QtProject.conf" "transmission/" "vivaldi/" "../" "conky-manager.json" "inkscape/" "chromium/" "skypeforlinux/" "i3status/" "polybar/" "gconf/" "FreeCAD/" "pavucontrol.ini" "evolution/" "dconf/" "matplotlib/" "freerdp/" "sublime-text-3/" "ristretto/" "discord/" "kicad/" "mimeapps.list" "gtk-3.0/" "xarchiver/")
 
- ("/home/krpec/dev/rd2code/noria-alarms/app/controllers/api/" (24614 38417 181747 987000) "./" "readme.dafuq" "events_controller.rb" "../")
-
  ("/home/krpec/dev/rd2code/noria-alarms/app/controllers/concerns/" (24614 40831 668559 839000) "./" "wmeter_downlink.rb" "sigfox_api.rb~" "sigfox_api.rb" ".keep" "../" "wmeter_downlink.rb~")
-
- ("/home/krpec/dev/rd2code/noria-alarms/app/controllers/" (24618 63926 943486 308000) "sessions_controller.rb" "invoices_controller.rb" "api/" "concerns/" "./" "sigfox_controller.rb" "device_params_controller.rb" "downlink_events_controller.rb" "device_groups_controller.rb" "device_logs_controller.rb~" "pump_times_controller.rb" "users_controller.rb" "application_controller.rb" "invoice_infos_controller.rb" "devices_controller.rb" "sigfox_controller.rb~" "pages_controller.rb" "../" "device_logs_controller.rb" "tokens_controller.rb" "admin/" "device_alarms_controller.rb" "bank_transactions_controller.rb" "downlink_events_controller.rb~" "device_params_controller.rb~" "registrations_controller.rb" "device_events_controller.rb")
 
  ("/home/krpec/downloads/" (24605 47658 992751 643000) "LoRa-CRA.json" "119232189_10222139215696863_4630419735825711052_o.jpg" "SRD-5VDC-SL-C.pdf" "drive-download-20191202T202216Z-001.zip" "arena-starter-kit-green-deck.dek" "Metal Grooves Under Špilas 40.jpg" "508befe97cace84a213f49a57eb3cb10272b0bff_closed.dxf" "w_nahled/" "license.txt" "sd007144.pdf" "3210384747_20201030_10.pdf" "covid-pes-stupne-pohotovosti.pdf" "119175807_10222139220016971_1917034132842371491_o.jpg" "uzemni-plan.zip" "Metal Grooves Under Špilas 39.jpg" "119235911_10222139211896768_4058651949587608267_o.jpg" "Strom REX 1.14-2020 CZ.pdf" "MIDI_Controller_v1-2 (1).ino" "2210693880 (1).pdf" "Metal Grooves Under Špilas 41.jpg" "Duplex-REX-CZ_2020-10-web.pdf" "Salmon Architecture_v0.1.pdf" "download.itadmins.net/" "i3exit-master.zip" "Photos-20200627T092054Z-001.zip" "home-2015-english-yify-42840.zip" "MIDI_Controller_v1-2/" "Wedding photos/" "m21_sma_dog_v_cats.zip" "[CzT]Spider_Man_Paralelni_svety_Spider_Man_Into_the_Spider_Verse_2018_CZ_SK_.torrent" "hlavni-vykres.pdf" "a1845270514_10.jpg" "64492011_304615540493859_7000168922880147456_n.jpg" "2210693880.pdf" "logo-bile.png" "onemust-fall-2019hdrip-xvid-ac3-evosrt-english-159214 (1).zip" "Q6_Plus_V2.1.0.33.zip" "Review - Nicky Baldrian redemptions.csv" "SKILLET - DISCOGRAPHY [CHANNEL NEO]/" "Duplex-REX-CZ_2020-10-web (1).pdf" "Mesa_Boogie_Engineering_Logo.svg" "brain-2-fbl-2494.jpg" "[CzT]Kralicek_Petr_Peter_Rabbit_2018_CZ_SK_.torrent" "README.txt" "VID_20200319_162836.mp4" "508befe97cace84a213f49a57eb3cb10272b0bff_top.dxf" "MIDI_Input.zip" "harry.potter.and.the.prisoner.of.(3378575).nfo" "spin_pro_schema-de-en-cz-2012.pdf" "tribe_bandcamp_wall.jpg" "The Final Countdown (1980) [BluRay] [1080p] [YTS.LT].torrent" "RC Signal Inverter-F_Cu.gbr" "planck-closed.svg" "devil_420.jpg" "device-333437394e37790c.json" "Doom 2016 - Soundtrack.rar" "token_import.xlsx" "MIKROTIK RBcAPGi-5acD2nD Guide en.pdf" "PALCE16V8PALCE16V8ZDataSheet (1).PDF" "a24_prehled_dns_zaznamu-2020-05-12.csv" "Tribe-of-Misery-New-song-verze-3.mp3" "VIC0041_FEI_N2649_2612T041_2017.pdf" "[CzT]Tmavomodry_svet_2001_CZ_.torrent" "_adminer (1).php" "[CzT]Temny_rytir_povstal_The_Dark_Knight_Rises_CZ_2012_.torrent" "508befe97cace84a213f49a57eb3cb10272b0bff_switch.dxf" "RC Signal Inverter-B_Mask.gbr" "download.html" "119218237_10222139216696888_5911083881803553048_o.jpg" "Nomad Manual.pdf" "119170120_10222139220416981_1046961674461261772_o.jpg" "grid.xls" "onemust-fall-2019hdrip-xvid-ac3-evosrt-english-159214.zip" "508befe97cace84a213f49a57eb3cb10272b0bff_bottom.dxf" "produkey.zip" "driver_ch341ser_linux (1).ZIP" "Tribe-of-Misery-New-song_.mp3" "Picture-AutoColumnWidth.docx" "119072296_10222139216936894_1436364572233944946_o.jpg" "MIDI_Output_Test.zip" "Li-P-mask01-1.jpg" "Candle_FuckingMeetings_WEB_grande.jpg" "device-333437394e37790c (1).json" "brain-2-fbl-2505.jpg" "Spin-Controller-Brake-Settings.pdf" "119177764_10222139208216676_7051205925501512354_o.jpg" "MIDI_Input/" "MIDI_Output_Test/" "dx8/" "mod_conn_av.zip" "Devil's Son.flac" "wedding.zip" "NOMAD_GMajor.pdf" "produkey-x64.zip" "DS-12-CZ-2019-03-web.pdf" "2020-04-04-090819_3200x1080_scrot.png" "_adminer.php" "3210384747_20201231_12.pdf" "MTGAInstaller.exe" "Duplex-EX-CZ-2011-06-26.pdf" "YGEConfig_en.exe" "nomad-fsw-schematics.gif" "PERIPHERY – Periphery IV - Hail Stan (2019)flac 16b + mp3@320kbps - ludasj.rar" "generali.zip" "ElektronickaAnalyzaPartners.pdf" "MAK-RC-Signal-Inverter-Gerbers-v10-SMD.zip" "Tattoo action Haná 19.rar" "Jeti and Spartan setup guide.pdf" "planck-top.svg" "M3310.083_JVM2.pdf" "ArchiCAD 23 CZE 3003 + Goodies + MEPmodeller + Crack.zip" "Pozvánka na posezení 5.červen 2021.rtf" "197311CZK115201OLM_20201231_1.pdf" "sirsi-vztahy.pdf" "BRAINSTALLER (1).msi" "debian-10.2.0-amd64-netinst.iso" "119175801_10222139217496908_1187242862169467356_o.jpg" "142404356_755993701687303_4555487541891147031_n.jpg" "planck-bottom.svg" "maleficentmistressofevil2019720pblurayx264ytsag-english-161052.zip" "Harry.Potter.and.the.Prisoner.of.Azkaban.2004.720p.BluRay.DTS.x264-ESiR.ENG.srt" "[CzT]Madagaskar_Madagascar_2005_CZ_SK_EN_1080pLQ_.torrent" "3d_conn_av.zip" "odpovedi-do-GB.txt" "Pl._US_4_17_na_web.pdf" "[CzT]Cerveny_trpaslik_Red_Dwarf_1_10_serie_CZ_.torrent" "Din7_pinout_grande.jpeg" "Archicad 18_3006_x64/" "OhmsinParallel.jpg" "planck-open.svg" "PALCE16V8PALCE16V8ZDataSheet.PDF" "odur-zadost-o-vydani-dlouhodobe-parkovaci-karty-fo.cs.doc" "return-label.pdf" "Review - Nicky Baldrian codes.csv" "119383893_10222139218896943_5302616810320482552_o.jpg" "On-the-Roof(0000317571).srt" "token_import (1).xlsx" "119197371_10222139217176900_7584886163287934893_o.jpg" "watch.html" "nomad_100.pdf" "MIKROTIK RBcAPGi-5acD2nD Manual en.pdf" "RC Signal Inverter-Edge_Cuts.gbr" "552313_I2e_KTI.pdf" "707tw_0230-0119rc.pdf" "[CzT]Call_of_Duty_Black_Ops_2010_CZ_.torrent" "i3exit-master/" "walter/" "EBZC1867.MOV" "oceans-eight-2018-english-yify-4998.zip" "icqsetup.exe" "Zadání ÚP Moravičany.docx" "thefinalcountdown1980720pblurayx264ytsag-english-107188.zip" "143263637_325588552086898_3025131542766898734_n.jpg" "BRAINSTALLER.msi" "krpec.local.ovpn" "driver_ch341ser_linux.ZIP" "spirit-3.2.0-linux.tar.bz2" "Clockify_Detailed_Report_10_19_2020-10_25_2020.pdf" "119383113_10222139216376880_6060866957169517768_o.jpg" "tribe_bandcamp_wall.png" "MAK-RC-Signal-Inverter-Gerbers-v10-SMD/" "tcelectronic-gmajor-sw-1-27-_manual-english.pdf" "DS-12-CZ-2019-03-web (1).pdf" "301_cele.cs.pdf" "product77304A.pdf" "3210384747_20201130_11.pdf" "return-label.gif" "125B_1-Knob-Type-1 (1).pdf" "Hacking the HP DPS-1200FB A PSU.pdf" "Platební příkaz _ TravelPortal.cz.pdf" "Roman-Dell-invoice.pdf" "01094800umCS.pdf" "planck-switch.svg" "pi-hole-5.2.1.zip" "TransactionConfirmation_25112020.pdf" "RC Signal Inverter-F_SilkS.gbr" "RC Signal Inverter.drl" "19368-29509.pdf" "118139369_10218654393379596_302194941439182885_o.jpg" "discord-0.0.13.deb" "[CzT]Coco_2017_CZ_.torrent" "MIDI_Output_Test (2).zip" "RC Signal Inverter-B_Cu.gbr" "validace.pdf" "119228950_10222139208296678_5550671633515551062_o.jpg" "Datasheet_EXD20DN3W.pdf" "XLPower520 550 manual.pdf" "TribeOfMiseryTransparent.xcf" "spin-pro-cz-de-en-2012.pdf" "RX4R.pdf" "Ebook - 4 zakladni otazky na ktere musite znat odpoved.pdf" "w_conn_av.mod" "client.ovpn" "config" "McDonald's_coupon.pdf" "[CzT]Call_Of_Duty_5_World_at_War_CZ_2008_.torrent" "image001.png" "119220326_10222139216016871_8239977184601844517_o.jpg" "tribe_tabs.zip" "RC Signal Inverter-B_SilkS.gbr" "simple-skull-vector-32.png" "RC Signal Inverter-F_Mask.gbr" "w_conn_av.pretty/" "508befe97cace84a213f49a57eb3cb10272b0bff_open.dxf" "119149590_10222139217736914_2167026805297487849_o.jpg" "[CzT]Jiste_pane_ministre_Jiste_pane_premiere_Yes_Minister_Yes_Prime_Minister_CZ_.torrent" "Nine-Inch-Nails-GhostsV-and-VI.zip" "romandittrich-2020-0015.pdf" "wallpapers-master.zip" "119150759_10222139209656712_7061334922519659248_o.jpg" "table.csv" "odur-zadost-o-vydani-dlouhodobe-parkovaci-karty-fo.cs (1).doc" "MIDI_Output_Test (1).zip" "Montážní návod - UNIT - Zvýšená postel.pdf" "hlavni-vykres-legenda.pdf" "../" "./")
 
@@ -135,8 +140,6 @@
 
  ("/home/krpec/dev/rd2code/noria-alarms/app/views/layouts/" (24611 1729 276549 303000) "_navbar_menu_xxx.html.haml" "_header_navbar_x.html.haml" "./" "_navbar_dashboard.html.haml" "_error_messages.html.haml" "mailer.text.erb" "_navbar_menu.html.haml" "_header_navbar.html.haml" "mailer.html.erb" "_carousel.html.haml" "pdf_layout.html.haml" "notifier_mailer.html.haml" "invoice.pdf.haml" "application.html.haml" "../")
 
- ("/home/krpec/.emacs.d/" (24611 56808 319481 761000) "elpa/" "init.el~" "./" "init.el" "themes/" "tramp" "ido.last~" "tutorial/" "../" "auto-save-list/" "eshell/" "transient/" "ido.last" "magithub/")
-
  ("/home/krpec/dev/rd2code/noria-alarms/app/jobs/" (24516 13145 43283 678000) "device_report_summary_job.rb" "check_overdue_invoices_job.rb" "download_bank_transactions_job.rb" "disable_not_paid_devices_job.rb" "device_email_job.rb" "./" "check_devices_expiration_job.rb" "check_devices_invoice_info_job.rb" "../" "application_job.rb" "avg_pump_times_job.rb" "device_email_test_job.rb")
 
  ("/home/krpec/dev/rd2code/noria-alarms/app/controllers/admin/" (24575 34299 572554 635000) "device_types_controller.rb" "meter_flows_controller.rb" "./" "manufacturers_controller.rb" "alarm_labels_controller.rb" "menus_controller.rb" "meter_types_controller.rb" "request_logs_controller.rb" "../" "menu_items_controller.rb" "system_settings_controller.rb")
@@ -148,8 +151,6 @@
  ("/home/krpec/dev/rd2code/noria-alarms/config/" (24611 5905 699967 345000) "puma.rb" "storage.yml" "environment.rb" "application.rb" "./" "spring.rb" "nginx.conf" "deploy/" "nginx_stag.conf" "database.yml" "environments/" "deploy.rb" "master.key" "secrets.yml.enc" "../" "initializers/" "schedule.rb" "credentials.yml.enc" "boot.rb" "routes.rb" "locales/")
 
  ("/home/krpec/dev/rd2code/noria-alarms/app/views/" (24573 36548 429462 871000) "invoices/" "device_logs/" "pages/" "./" "layouts/" "tokens/" "downlink_events/" "info_mailer/" "device_alarms/" "pump_times/" "devise/" "shared/" "device_groups/" "bank_transactions/" "../" "devices/" "modals/" "device_params/" "users/" "admin/" "alarm_mailer/" "device_events/")
-
- ("/home/krpec/dev/rd2code/noria-alarms/" (24611 5905 696634 11000) "log/" "Gemfile.lock" "README.md" "noria-alarms.sublime-workspace" "Rakefile" "./" "tmp/" "package.json" ".gitignore" "app/" ".byebug_history" ".ruby-version" "public/" ".git/" "doc/" "test/" "Capfile" "package-lock.json" "../" "config.ru" "bin/" "spec/" "Gemfile" "bootstrap-datetimepicker.js" "db/" "lib/" "config/" "vendor/")
 
  ("/home/krpec/dev/rd2code/noria-alarms/app/views/pump_times/" (24461 56782 542017 708000) "_device_pump_time.html.haml" "_device_listing.html.haml~" "_pump_time.html.haml" "./" "_device_listing.html.haml" "_search_form.html.haml" "../" "_listing.html.haml" "index.js.haml" "index.html.haml")
 
@@ -177,8 +178,6 @@
 
  ("/home/krpec/dev/hw/" (24204 13740 909818 685000) "midinomad-mux/" "midinomad/" "./" "happyswitch/" "../" "keybs/" "program_change_nomad_100.md~" "patchbox/" "MIDI-Switcher/")
 
- ("/home/krpec/dev/" (24204 13740 909818 685000) "bash/" "waypoint.css.scss" "Workman/" "brainfuck/" "emacs_orgmode/" "haml/" "C#/" "./" "qmk_firmware/" "coloroptik-orange.png" "hw/" "deal.rb" "test.js.cofee" "taiga_log/" "myevic-master/" "Perl/" "ObjectiveC/" "C and Cpp/" "Lisp/" "homelab/" "portal_pt_locale/" "Soarer_Converter_v1/" "Arch-config/" "Ruby/" "_adminer.php" "song" "SALMON.INI" "rd2code/" "dev.tar.gz" "PHP/" "HISoftware/" "MultiWii 2.3/" "rails/" "international_inc_updated.bak" "Python/" "Soarer_sctools_v1.10_macosx/" "../" "Java/" "salmon/" "db_dump.sql" "_backup[db]/" "charts-ok2.png" "abstract_interface.rb" "new_song" "Citationtech/" "pckgs.zip" "sublime-text-3/" "CLR/")
-
  ("/home/krpec/dev/homelab/" (24046 34085 754142 549000) "./" "img/" "../")
 
  ("/home/krpec/bin/local/" (24029 37593 293740 152000) "matrixlock" "blurlock" "./" "../" "i3exit")
@@ -192,8 +191,6 @@
  ("/home/krpec/.config/dunst/" (23795 2972 332364 387000) "./" "dunstrc" "../")
 
  ("/home/krpec/dev/rd2code/noria-alarms/app/" (23856 41948 179326 871000) "assets/" "models/" "controllers/" "./" "helpers/" "jobs/" "uploaders/" "../" "views/" "mailers/" "channels/")
-
- ("/home/krpec/dev/rd2code/" (23926 54237 289754 315000) "yarms/" "colorcms/" "./" "gboxpi/" "../" "uctomhb.cz/" "noria-alarms/" "soundlabel/")
 )
 
 ;; ----- ido-unc-hosts-cache -----

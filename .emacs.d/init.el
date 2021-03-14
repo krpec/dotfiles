@@ -9,6 +9,7 @@
 (add-to-list 'package-archives '("org" .  "https://orgmode.org/elpa/") t)
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 (add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
+(add-to-list 'auto-mode-alist '("\\.jsn\\'" . json-mode))
 (package-initialize)
 
 
@@ -27,8 +28,10 @@
  '(global-display-line-numbers-mode t)
  '(global-hl-line-mode t)
  '(menu-bar-mode nil)
+ '(org-agenda-files
+   '("~/org/rd2code.org" "~/org/unsorted.org" "~/org/home.org" "~/org/salmon.org" "~/org/nom.org" "~/org/clr.org"))
  '(package-selected-packages
-   '(company-arduino company-irony company-c-headers irony-eldoc irony arduino-mode ## yaml-mode which-key org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete))
+   '(json-mode lua-mode company-arduino company-irony company-c-headers irony-eldoc irony arduino-mode ## yaml-mode which-key org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete))
  '(scroll-bar-mode nil)
  '(show-paren-mode t)
  '(tool-bar-mode nil)
@@ -67,3 +70,38 @@
 (add-hook 'yaml-mode-hook
 	  '(lambda ()
 	     (define-key yaml-mode-map "\C-m" 'newline-and-indent)))
+;;
+;;org-mode
+;;
+(add-to-list 'load-path (expand-file-name "~/dev/emacs_orgmode/lisp"))
+(add-to-list 'auto-mode-alist '("\\.\\(org\\|org_archive\\|txt\\)$" . org-mode))
+(require 'org)
+(global-set-key "\C-cl" 'org-store-link)
+(global-set-key "\C-ca" 'org-agenda)
+(global-set-key "\C-cc" 'org-capture)
+;;(global-set-key "\C-cb" 'org-iswitchb)
+
+;;(setq org-agenda-files (list "~/org/home.org"
+;;			     "~/org/house.org"
+;;			     "~/org/salmon.org"
+;;			     "~/org/nom.org"
+;;			     "~/org/clr.org"))
+
+(setq org-startup-indented t)
+(setq org-directory "~/org")
+(setq org-default-notes-file  "~/org/unsorted.org")
+(setq org-agenda-restore-windows-after-quit t)
+(setq org-log-done 'time)
+(setq org-completion-use-ido t)
+(setq org-todo-keywords
+      '((sequence "TODO(t)" "STRT(s!)" "WAIT(w@/!)" "HOLD(h/!)" "|" "DONE(d!)" "CNCL(c@)")))
+(setq org-refile-use-outline-path 'file)
+(setq org-refile-targets
+      `((org-agenda-files
+	 :regexp . "refile")
+	(org-agenda-files
+	 :maxlevel . 1)))
+(setq org-outline-path-complete-in-steps nil)
+
+;;reverses the order for refiling - puts refiled notes at the top
+;;(setq org-reverse-note-order t)
