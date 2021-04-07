@@ -1,6 +1,5 @@
 ;;(package-initialize)
 
-
 (require 'package)
 (require 'haml-mode)
 (require 'yaml-mode)
@@ -8,8 +7,10 @@
 (add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
 (add-to-list 'package-archives '("org" .  "https://orgmode.org/elpa/") t)
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+(add-to-list 'load-path "~/.emacs.d/lisp")
 (add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
 (add-to-list 'auto-mode-alist '("\\.jsn\\'" . json-mode))
+(add-to-list 'auto-mode-alist '("\\.axlsx\\'" . ruby-mode))
 (package-initialize)
 
 
@@ -29,9 +30,9 @@
  '(global-hl-line-mode t)
  '(menu-bar-mode nil)
  '(org-agenda-files
-   '("~/org/rd2code.org" "~/org/unsorted.org" "~/org/home.org" "~/org/salmon.org" "~/org/nom.org" "~/org/clr.org"))
+   '("~/org/house.org" "~/org/rd2code.org" "~/org/unsorted.org" "~/org/home.org" "~/org/salmon.org" "~/org/nom.org" "~/org/clr.org"))
  '(package-selected-packages
-   '(json-mode lua-mode company-arduino company-irony company-c-headers irony-eldoc irony arduino-mode ## yaml-mode which-key org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete))
+   '(scad-preview scad-mode php-mode use-package org-bullets json-mode lua-mode company-arduino company-irony company-c-headers irony-eldoc irony arduino-mode ## yaml-mode which-key org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete))
  '(scroll-bar-mode nil)
  '(show-paren-mode t)
  '(tool-bar-mode nil)
@@ -44,15 +45,10 @@
  )
 
 (setq inhibit-startup-message t)
-
-;; magit gitflow
-(add-hook 'magit-mode-hook 'turn-on-magit-gitflow)
-
 (global-set-key "\C-x\C-m" 'execute-extended-command)
 
-;;(global-set-key "\C-w" 'backward-kill-word)
-;;(global-set-key "\C-x\C-k" 'kill-region)
-
+;; magit & magit gitflow
+(add-hook 'magit-mode-hook 'turn-on-magit-gitflow)
 (global-set-key "\C-xg" 'magit-status)
 (global-set-key "\C-x\M-g" 'magit-dispatch)
 
@@ -70,6 +66,7 @@
 (add-hook 'yaml-mode-hook
 	  '(lambda ()
 	     (define-key yaml-mode-map "\C-m" 'newline-and-indent)))
+
 ;;
 ;;org-mode
 ;;
@@ -87,7 +84,6 @@
 ;;			     "~/org/nom.org"
 ;;			     "~/org/clr.org"))
 
-(setq org-startup-indented t)
 (setq org-directory "~/org")
 (setq org-default-notes-file  "~/org/unsorted.org")
 (setq org-agenda-restore-windows-after-quit t)
@@ -102,6 +98,10 @@
 	(org-agenda-files
 	 :maxlevel . 1)))
 (setq org-outline-path-complete-in-steps nil)
-
+(use-package org-bullets
+  :hook (org-mode . org-bullets-mode))
+(setq org-list-demote-modify-bullet '(("+" . "-") ("-" . "+") ("*" . "+")))
+(setq org-log-into-drawer t)
+(setq org-support-shift-select t)
 ;;reverses the order for refiling - puts refiled notes at the top
 ;;(setq org-reverse-note-order t)
