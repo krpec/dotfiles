@@ -4,6 +4,8 @@
 (require 'haml-mode)
 (require 'yaml-mode)
 (require 'magit-gitflow)
+(require 'yafolding)
+(require 'epa-file)
 (add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
 (add-to-list 'package-archives '("org" .  "https://orgmode.org/elpa/") t)
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
@@ -32,7 +34,7 @@
  '(org-agenda-files
    '("~/org/house.org" "~/org/rd2code.org" "~/org/unsorted.org" "~/org/home.org" "~/org/salmon.org" "~/org/nom.org" "~/org/clr.org"))
  '(package-selected-packages
-   '(scad-preview scad-mode php-mode use-package org-bullets json-mode lua-mode company-arduino company-irony company-c-headers irony-eldoc irony arduino-mode ## yaml-mode which-key org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete))
+   '(yafolding scad-preview scad-mode php-mode use-package org-bullets json-mode lua-mode company-arduino company-irony company-c-headers irony-eldoc irony arduino-mode ## yaml-mode which-key org monokai-pro-theme monokai-alt-theme monokai-theme magithub magit-org-todos magit-gitflow magit haml-mode code-stats ac-html auto-complete))
  '(scroll-bar-mode nil)
  '(show-paren-mode t)
  '(tool-bar-mode nil)
@@ -44,7 +46,13 @@
  ;; If there is more than one, they won't work right.
  )
 
+;; aliases
+(defalias '\# 'goto-line)
+
+(setq inferior-lisp-program "sbcl")
 (setq inhibit-startup-message t)
+(setq column-number-mode t)
+
 (global-set-key "\C-x\C-m" 'execute-extended-command)
 
 ;; magit & magit gitflow
@@ -67,6 +75,11 @@
 	  '(lambda ()
 	     (define-key yaml-mode-map "\C-m" 'newline-and-indent)))
 
+;;ruby-mode code folding
+(add-hook 'ruby-mode-hook 'yafolding-mode)
+;;(global-set-key (kbd "M-RET") 'yafolding-toggle-element)
+(global-set-key (kbd "<C-tab>") 'yafolding-toggle-element)
+(global-set-key (kbd "M-S-RET") 'yafolding-hide-all)
 ;;
 ;;org-mode
 ;;
@@ -90,7 +103,7 @@
 (setq org-log-done 'time)
 (setq org-completion-use-ido t)
 (setq org-todo-keywords
-      '((sequence "TODO(t)" "STRT(s!)" "WAIT(w@/!)" "HOLD(h/!)" "|" "DONE(d!)" "CNCL(c@)")))
+      '((sequence "TODO(t)" "STRT(s!)" "WAIT(w@/!)" "HOLD(h/!)" "|" "DONE(d!)" "CNCL(c@)" "PAID(i!)")))
 (setq org-refile-use-outline-path 'file)
 (setq org-refile-targets
       `((org-agenda-files
@@ -103,5 +116,9 @@
 (setq org-list-demote-modify-bullet '(("+" . "-") ("-" . "+") ("*" . "+")))
 (setq org-log-into-drawer t)
 (setq org-support-shift-select t)
+(setq org-clock-idle-time 15)
 ;;reverses the order for refiling - puts refiled notes at the top
 ;;(setq org-reverse-note-order t)
+
+;;epa file encryption
+(epa-file-enable)

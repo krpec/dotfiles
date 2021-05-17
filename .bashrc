@@ -44,7 +44,7 @@ alias czkb='setxkbmap cz qwerty'
 alias uskb='setxkbmap us'
 
 # Prompt setup
-PS1='[\u@\h \w]\$'
+#PS1='[\u@\h \w]\$'
 
 function parse_git_branch () {
 	git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
@@ -63,7 +63,7 @@ else
 	PS1="\u@\h:\w\$(parse_git_branch) \$ "
 fi
 
-# Window title
+#Window title
 case "$TERM" in
 xterm*|rxvt*)
 	PS1="\[\e]0;\u@\h: \w\$(parse_git_branch)\a$PS1"
